@@ -1,0 +1,30 @@
+@import '../../sassStyles/variables';
+@import '../../sassStyles/mixins';
+
+
+.client-header-container{
+    @include flexBetween(row);
+    background-color: $lightBlueColor;
+    height: 15%;
+    padding: 0.5rem 3rem;
+
+    &__info {
+        @include flexCenter(row, 0.7rem);
+        width: 30%;
+
+        h1 {
+            font-family: $fontFamily;
+            font-weight: $fontSemiBold;
+            color: $grayColor;
+            display: flex;
+            align-items: center;
+        };
+    };
+
+    &__btns {
+        @include flexCenter(row, 0.7rem);
+        width: 20%;
+        height: 45%;
+
+    }
+}
