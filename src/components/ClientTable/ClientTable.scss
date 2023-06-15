@@ -1,0 +1,17 @@
+@import '../../sassStyles/variables';
+@import '../../sassStyles/mixins';
+
+
+.client-table-container {
+    padding: 2rem 3rem;
+
+    h3 {
+        font-family: $fontFamily;
+        font-weight: $fontSemiBold;
+        padding-bottom: 1rem;
+    }
+
+    hr {
+        border: 1.5px solid $lightGrayColor2;
+    }
+}

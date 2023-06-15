@@ -3,7 +3,12 @@ import './ClientTable.scss'
 
 const ClientTable = () => {
   return (
-    <div>ClientTable</div>
+    <section className="client-table-container">
+
+      <h3>Consulta Cliente Domicilio</h3>
+      <hr></hr>
+
+    </section>
   )
 }
 

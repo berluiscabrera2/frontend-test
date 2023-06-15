@@ -1,9 +1,9 @@
 @import './variables';
 
-@mixin flexCenter($direction, $gap){
+@mixin flexCenter($direction, $gap, $justify){
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: $justify;
     flex-direction: $direction;
     gap: $gap;
 }

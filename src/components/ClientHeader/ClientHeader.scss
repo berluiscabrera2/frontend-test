@@ -1,3 +1,4 @@
+@import '@sweetalert2/theme-material-ui/material-ui.scss';
 @import '../../sassStyles/variables';
 @import '../../sassStyles/mixins';
 
@@ -5,16 +6,18 @@
 .client-header-container{
     @include flexBetween(row);
     background-color: $lightBlueColor;
-    height: 15%;
+    height: 20%;
     padding: 0.5rem 3rem;
 
     &__info {
-        @include flexCenter(row, 0.7rem);
-        width: 30%;
+        @include flexCenter(row, 0.7rem, flex-start);
+        width: 85%;
 
         h1 {
             font-family: $fontFamily;
             font-weight: $fontSemiBold;
+            white-space: nowrap;
+            overflow: hidden;
             color: $grayColor;
             display: flex;
             align-items: center;
@@ -22,7 +25,7 @@
     };
 
     &__btns {
-        @include flexCenter(row, 0.7rem);
+        @include flexCenter(row, 0.7rem, center);
         width: 20%;
         height: 45%;
 
