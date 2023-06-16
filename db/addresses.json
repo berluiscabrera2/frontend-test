@@ -114,32 +114,32 @@
          "ID": 11,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
-         "TipoDomicilio": "Oficina principal",
-         "Calle": "Ave. Winston Churchill",
-         "Numero": 1020,
-         "Sector": "Evaristo Morales",
-         "Provincia": "Distrito Nacional",
+         "TipoDomicilio": "Sucursal",
+         "Calle": "Manuel de Jesus Troncoso",
+         "Numero": "42a",
+         "Sector": "La Romana",
+         "Provincia": "La Romana",
          "Estado": "Activo"
         },
         {
          "ID": 12,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
-         "TipoDomicilio": "Sucursal",
-         "Calle": "Paseo Oeste",
-         "Numero": "S\/N",
-         "Sector": "La Rosaelda",
-         "Provincia": "Santiago de Los Caballeros",
-         "Estado": "Activo"
+         "TipoDomicilio": "Trabajo",
+         "Calle": "Ave. Winston Churchill",
+         "Numero": 13,
+         "Sector": "Altos de Arroyo Hondo III",
+         "Provincia": "Distrito Nacional",
+         "Estado": "Activa"
         },
         {
          "ID": 13,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
-         "TipoDomicilio": "Trabajo",
+         "TipoDomicilio": "Otro",
          "Calle": "Calle Rafael Augusto Sanchez",
-         "Numero": "S\/N",
-         "Sector": "Evaristo Morales",
+         "Numero": 256,
+         "Sector": "Plantini",
          "Provincia": "Distrito Nacional",
          "Estado": "Activo"
         },
@@ -147,22 +147,22 @@
          "ID": 14,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
-         "TipoDomicilio": "Sucursal",
-         "Calle": "Ave. Winston Churchill",
-         "Numero": "S\/N",
-         "Sector": "Centro de la Ciudad",
-         "Provincia": "La Romana",
+         "TipoDomicilio": "Veraneo",
+         "Calle": "Calle Luis Alberty",
+         "Numero": 156,
+         "Sector": "Naco",
+         "Provincia": "Distrito Nacional",
          "Estado": "Activo"
         },
         {
          "ID": 15,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
-         "TipoDomicilio": "Verano",
+         "TipoDomicilio": "Residencia",
          "Calle": "Calle Rafael Augusto Sanchez",
-         "Numero": 4,
+         "Numero": 14,
          "Sector": "Naco",
-         "Provincia": "La Romana",
+         "Provincia": "Santiago",
          "Estado": "Activo"
         },
         {
@@ -202,28 +202,6 @@
          "ID": 19,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
-         "TipoDomicilio": "Veraneo",
-         "Calle": "Calle Luis Alberty",
-         "Numero": 156,
-         "Sector": "Naco",
-         "Provincia": "Distrito Nacional",
-         "Estado": "Activo"
-        },
-        {
-         "ID": 20,
-         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
-         "PersonaNo": 306,
-         "TipoDomicilio": "Residencia",
-         "Calle": "Calle Rafael Augusto Sanchez",
-         "Numero": 14,
-         "Sector": "Naco",
-         "Provincia": "Santiago",
-         "Estado": "Activo"
-        },
-        {
-         "ID": 21,
-         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
-         "PersonaNo": 306,
          "TipoDomicilio": "Oficina principal",
          "Calle": "Ave. Winston Churchill",
          "Numero": 1020,
@@ -232,7 +210,7 @@
          "Estado": "Activo"
         },
         {
-         "ID": 22,
+         "ID": 20,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Sucursal",
@@ -243,7 +221,7 @@
          "Estado": "Activo"
         },
         {
-         "ID": 23,
+         "ID": 21,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Trabajo",
@@ -254,7 +232,7 @@
          "Estado": "Activo"
         },
         {
-         "ID": 24,
+         "ID": 22,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Sucursal",
@@ -265,7 +243,7 @@
          "Estado": "Activo"
         },
         {
-         "ID": 25,
+         "ID": 23,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Verano",
@@ -276,7 +254,7 @@
          "Estado": "Activo"
         },
         {
-         "ID": 26,
+         "ID": 24,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Sucursal",
@@ -287,7 +265,7 @@
          "Estado": "Activo"
         },
         {
-         "ID": 27,
+         "ID": 25,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Trabajo",
@@ -295,10 +273,10 @@
          "Numero": 13,
          "Sector": "Altos de Arroyo Hondo III",
          "Provincia": "Distrito Nacional",
-         "Estado": "Activa"
+         "Estado": "Activo"
         },
         {
-         "ID": 28,
+         "ID": 26,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Otro",
@@ -309,13 +287,35 @@
          "Estado": "Activo"
         },
         {
-         "ID": 29,
+         "ID": 27,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Veraneo",
          "Calle": "Calle Luis Alberty",
          "Numero": 156,
          "Sector": "Naco",
+         "Provincia": "Distrito Nacional",
+         "Estado": "Activo"
+        },
+        {
+         "ID": 28,
+         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
+         "PersonaNo": 306,
+         "TipoDomicilio": "Residencia",
+         "Calle": "Calle Rafael Augusto Sanchez",
+         "Numero": 14,
+         "Sector": "Naco",
+         "Provincia": "Santiago",
+         "Estado": "Activo"
+        },
+        {
+         "ID": 29,
+         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
+         "PersonaNo": 306,
+         "TipoDomicilio": "Oficina principal",
+         "Calle": "Ave. Winston Churchill",
+         "Numero": 1020,
+         "Sector": "Evaristo Morales",
          "Provincia": "Distrito Nacional",
          "Estado": "Activo"
         },
@@ -345,48 +345,15 @@
          "ID": 32,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
-         "TipoDomicilio": "Sucursal",
-         "Calle": "Paseo Oeste",
-         "Numero": "S\/N",
-         "Sector": "La Rosaelda",
-         "Provincia": "Santiago de Los Caballeros",
+         "TipoDomicilio": "Residencia",
+         "Calle": "Calle Rafael Augusto Sanchez",
+         "Numero": 14,
+         "Sector": "Naco",
+         "Provincia": "Santiago",
          "Estado": "Activo"
         },
         {
          "ID": 33,
-         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
-         "PersonaNo": 306,
-         "TipoDomicilio": "Trabajo",
-         "Calle": "Calle Rafael Augusto Sanchez",
-         "Numero": "S\/N",
-         "Sector": "Evaristo Morales",
-         "Provincia": "Distrito Nacional",
-         "Estado": "Activo"
-        },
-        {
-         "ID": 34,
-         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
-         "PersonaNo": 306,
-         "TipoDomicilio": "Sucursal",
-         "Calle": "Ave. Winston Churchill",
-         "Numero": "S\/N",
-         "Sector": "Centro de la Ciudad",
-         "Provincia": "La Romana",
-         "Estado": "Activo"
-        },
-        {
-         "ID": 35,
-         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
-         "PersonaNo": 306,
-         "TipoDomicilio": "Verano",
-         "Calle": "Calle Rafael Augusto Sanchez",
-         "Numero": 4,
-         "Sector": "Naco",
-         "Provincia": "La Romana",
-         "Estado": "Activo"
-        },
-        {
-         "ID": 36,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Sucursal",
@@ -397,7 +364,7 @@
          "Estado": "Activo"
         },
         {
-         "ID": 37,
+         "ID": 34,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Trabajo",
@@ -408,13 +375,46 @@
          "Estado": "Activa"
         },
         {
-         "ID": 38,
+         "ID": 35,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Otro",
          "Calle": "Calle Rafael Augusto Sanchez",
          "Numero": 256,
          "Sector": "Plantini",
+         "Provincia": "Distrito Nacional",
+         "Estado": "Activo"
+        },
+        {
+         "ID": 36,
+         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
+         "PersonaNo": 306,
+         "TipoDomicilio": "Veraneo",
+         "Calle": "Calle Luis Alberty",
+         "Numero": 156,
+         "Sector": "Naco",
+         "Provincia": "Distrito Nacional",
+         "Estado": "Activo"
+        },
+        {
+         "ID": 37,
+         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
+         "PersonaNo": 306,
+         "TipoDomicilio": "Residencia",
+         "Calle": "Calle Rafael Augusto Sanchez",
+         "Numero": 14,
+         "Sector": "Naco",
+         "Provincia": "Santiago",
+         "Estado": "Activo"
+        },
+        {
+         "ID": 38,
+         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
+         "PersonaNo": 306,
+         "TipoDomicilio": "Oficina principal",
+         "Calle": "Ave. Winston Churchill",
+         "Numero": 1020,
+         "Sector": "Evaristo Morales",
          "Provincia": "Distrito Nacional",
          "Estado": "Activo"
         },
@@ -422,39 +422,6 @@
          "ID": 39,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
-         "TipoDomicilio": "Veraneo",
-         "Calle": "Calle Luis Alberty",
-         "Numero": 156,
-         "Sector": "Naco",
-         "Provincia": "Distrito Nacional",
-         "Estado": "Activo"
-        },
-        {
-         "ID": 40,
-         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
-         "PersonaNo": 306,
-         "TipoDomicilio": "Residencia",
-         "Calle": "Calle Rafael Augusto Sanchez",
-         "Numero": 14,
-         "Sector": "Naco",
-         "Provincia": "Santiago",
-         "Estado": "Activo"
-        },
-        {
-         "ID": 41,
-         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
-         "PersonaNo": 306,
-         "TipoDomicilio": "Oficina principal",
-         "Calle": "Ave. Winston Churchill",
-         "Numero": 1020,
-         "Sector": "Evaristo Morales",
-         "Provincia": "Distrito Nacional",
-         "Estado": "Activo"
-        },
-        {
-         "ID": 42,
-         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
-         "PersonaNo": 306,
          "TipoDomicilio": "Sucursal",
          "Calle": "Paseo Oeste",
          "Numero": "S\/N",
@@ -463,7 +430,7 @@
          "Estado": "Activo"
         },
         {
-         "ID": 43,
+         "ID": 40,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Trabajo",
@@ -474,7 +441,7 @@
          "Estado": "Activo"
         },
         {
-         "ID": 44,
+         "ID": 41,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Sucursal",
@@ -485,7 +452,7 @@
          "Estado": "Activo"
         },
         {
-         "ID": 45,
+         "ID": 42,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Verano",
@@ -496,7 +463,7 @@
          "Estado": "Activo"
         },
         {
-         "ID": 46,
+         "ID": 43,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Sucursal",
@@ -507,7 +474,7 @@
          "Estado": "Activo"
         },
         {
-         "ID": 47,
+         "ID": 44,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Trabajo",
@@ -515,16 +482,49 @@
          "Numero": 13,
          "Sector": "Altos de Arroyo Hondo III",
          "Provincia": "Distrito Nacional",
-         "Estado": "Activa"
+         "Estado": "Activo"
         },
         {
-         "ID": 48,
+         "ID": 45,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Otro",
          "Calle": "Calle Rafael Augusto Sanchez",
          "Numero": 256,
          "Sector": "Plantini",
+         "Provincia": "Distrito Nacional",
+         "Estado": "Activo"
+        },
+        {
+         "ID": 46,
+         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
+         "PersonaNo": 306,
+         "TipoDomicilio": "Veraneo",
+         "Calle": "Calle Luis Alberty",
+         "Numero": 156,
+         "Sector": "Naco",
+         "Provincia": "Distrito Nacional",
+         "Estado": "Activo"
+        },
+        {
+         "ID": 47,
+         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
+         "PersonaNo": 306,
+         "TipoDomicilio": "Residencia",
+         "Calle": "Calle Rafael Augusto Sanchez",
+         "Numero": 14,
+         "Sector": "Naco",
+         "Provincia": "Santiago",
+         "Estado": "Activo"
+        },
+        {
+         "ID": 48,
+         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
+         "PersonaNo": 306,
+         "TipoDomicilio": "Oficina principal",
+         "Calle": "Ave. Winston Churchill",
+         "Numero": 1020,
+         "Sector": "Evaristo Morales",
          "Provincia": "Distrito Nacional",
          "Estado": "Activo"
         },
@@ -532,39 +532,6 @@
          "ID": 49,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
-         "TipoDomicilio": "Veraneo",
-         "Calle": "Calle Luis Alberty",
-         "Numero": 156,
-         "Sector": "Naco",
-         "Provincia": "Distrito Nacional",
-         "Estado": "Activo"
-        },
-        {
-         "ID": 50,
-         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
-         "PersonaNo": 306,
-         "TipoDomicilio": "Residencia",
-         "Calle": "Calle Rafael Augusto Sanchez",
-         "Numero": 14,
-         "Sector": "Naco",
-         "Provincia": "Santiago",
-         "Estado": "Activo"
-        },
-        {
-         "ID": 51,
-         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
-         "PersonaNo": 306,
-         "TipoDomicilio": "Oficina principal",
-         "Calle": "Ave. Winston Churchill",
-         "Numero": 1020,
-         "Sector": "Evaristo Morales",
-         "Provincia": "Distrito Nacional",
-         "Estado": "Activo"
-        },
-        {
-         "ID": 52,
-         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
-         "PersonaNo": 306,
          "TipoDomicilio": "Sucursal",
          "Calle": "Paseo Oeste",
          "Numero": "S\/N",
@@ -573,7 +540,7 @@
          "Estado": "Activo"
         },
         {
-         "ID": 53,
+         "ID": 50,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Trabajo",
@@ -584,7 +551,7 @@
          "Estado": "Activo"
         },
         {
-         "ID": 54,
+         "ID": 51,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Sucursal",
@@ -595,7 +562,7 @@
          "Estado": "Activo"
         },
         {
-         "ID": 55,
+         "ID": 52,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Verano",
@@ -606,7 +573,7 @@
          "Estado": "Activo"
         },
         {
-         "ID": 56,
+         "ID": 53,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Sucursal",
@@ -617,7 +584,7 @@
          "Estado": "Activo"
         },
         {
-         "ID": 57,
+         "ID": 54,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Trabajo",
@@ -628,13 +595,46 @@
          "Estado": "Activa"
         },
         {
-         "ID": 58,
+         "ID": 55,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Otro",
          "Calle": "Calle Rafael Augusto Sanchez",
          "Numero": 256,
          "Sector": "Plantini",
+         "Provincia": "Distrito Nacional",
+         "Estado": "Activo"
+        },
+        {
+         "ID": 56,
+         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
+         "PersonaNo": 306,
+         "TipoDomicilio": "Veraneo",
+         "Calle": "Calle Luis Alberty",
+         "Numero": 156,
+         "Sector": "Naco",
+         "Provincia": "Distrito Nacional",
+         "Estado": "Activo"
+        },
+        {
+         "ID": 57,
+         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
+         "PersonaNo": 306,
+         "TipoDomicilio": "Residencia",
+         "Calle": "Calle Rafael Augusto Sanchez",
+         "Numero": 14,
+         "Sector": "Naco",
+         "Provincia": "Santiago",
+         "Estado": "Activo"
+        },
+        {
+         "ID": 58,
+         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
+         "PersonaNo": 306,
+         "TipoDomicilio": "Oficina principal",
+         "Calle": "Ave. Winston Churchill",
+         "Numero": 1020,
+         "Sector": "Evaristo Morales",
          "Provincia": "Distrito Nacional",
          "Estado": "Activo"
         },
@@ -642,39 +642,6 @@
          "ID": 59,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
-         "TipoDomicilio": "Veraneo",
-         "Calle": "Calle Luis Alberty",
-         "Numero": 156,
-         "Sector": "Naco",
-         "Provincia": "Distrito Nacional",
-         "Estado": "Activo"
-        },
-        {
-         "ID": 60,
-         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
-         "PersonaNo": 306,
-         "TipoDomicilio": "Residencia",
-         "Calle": "Calle Rafael Augusto Sanchez",
-         "Numero": 14,
-         "Sector": "Naco",
-         "Provincia": "Santiago",
-         "Estado": "Activo"
-        },
-        {
-         "ID": 61,
-         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
-         "PersonaNo": 306,
-         "TipoDomicilio": "Oficina principal",
-         "Calle": "Ave. Winston Churchill",
-         "Numero": 1020,
-         "Sector": "Evaristo Morales",
-         "Provincia": "Distrito Nacional",
-         "Estado": "Activo"
-        },
-        {
-         "ID": 62,
-         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
-         "PersonaNo": 306,
          "TipoDomicilio": "Sucursal",
          "Calle": "Paseo Oeste",
          "Numero": "S\/N",
@@ -683,51 +650,7 @@
          "Estado": "Activo"
         },
         {
-         "ID": 63,
-         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
-         "PersonaNo": 306,
-         "TipoDomicilio": "Trabajo",
-         "Calle": "Calle Rafael Augusto Sanchez",
-         "Numero": "S\/N",
-         "Sector": "Evaristo Morales",
-         "Provincia": "Distrito Nacional",
-         "Estado": "Activo"
-        },
-        {
-         "ID": 64,
-         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
-         "PersonaNo": 306,
-         "TipoDomicilio": "Sucursal",
-         "Calle": "Ave. Winston Churchill",
-         "Numero": "S\/N",
-         "Sector": "Centro de la Ciudad",
-         "Provincia": "La Romana",
-         "Estado": "Activo"
-        },
-        {
-         "ID": 65,
-         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
-         "PersonaNo": 306,
-         "TipoDomicilio": "Verano",
-         "Calle": "Calle Rafael Augusto Sanchez",
-         "Numero": 4,
-         "Sector": "Naco",
-         "Provincia": "La Romana",
-         "Estado": "Activo"
-        },
-        {
-         "ID": 66,
-         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
-         "PersonaNo": 306,
-         "TipoDomicilio": "Sucursal",
-         "Calle": "Manuel de Jesus Troncoso",
-         "Numero": "42a",
-         "Sector": "La Romana",
-         "Provincia": "La Romana",
-         "Estado": "Activo"
-        },
-        {
-         "ID": 67,
+         "ID": 60,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Trabajo",
@@ -735,10 +658,10 @@
          "Numero": 13,
          "Sector": "Altos de Arroyo Hondo III",
          "Provincia": "Distrito Nacional",
-         "Estado": "Activa"
+         "Estado": "Activo"
         },
         {
-         "ID": 68,
+         "ID": 61,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Otro",
@@ -749,7 +672,7 @@
          "Estado": "Activo"
         },
         {
-         "ID": 69,
+         "ID": 62,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Veraneo",
@@ -760,7 +683,7 @@
          "Estado": "Activo"
         },
         {
-         "ID": 70,
+         "ID": 63,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Residencia",
@@ -771,7 +694,7 @@
          "Estado": "Activo"
         },
         {
-         "ID": 71,
+         "ID": 64,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Oficina principal",
@@ -782,7 +705,7 @@
          "Estado": "Activo"
         },
         {
-         "ID": 72,
+         "ID": 65,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Sucursal",
@@ -793,7 +716,7 @@
          "Estado": "Activo"
         },
         {
-         "ID": 73,
+         "ID": 66,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Trabajo",
@@ -804,7 +727,7 @@
          "Estado": "Activo"
         },
         {
-         "ID": 74,
+         "ID": 67,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Sucursal",
@@ -815,7 +738,7 @@
          "Estado": "Activo"
         },
         {
-         "ID": 75,
+         "ID": 68,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Verano",
@@ -823,6 +746,83 @@
          "Numero": 4,
          "Sector": "Naco",
          "Provincia": "La Romana",
+         "Estado": "Activo"
+        },
+        {
+         "ID": 69,
+         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
+         "PersonaNo": 306,
+         "TipoDomicilio": "Sucursal",
+         "Calle": "Manuel de Jesus Troncoso",
+         "Numero": "42a",
+         "Sector": "La Romana",
+         "Provincia": "La Romana",
+         "Estado": "Activo"
+        },
+        {
+         "ID": 70,
+         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
+         "PersonaNo": 306,
+         "TipoDomicilio": "Trabajo",
+         "Calle": "Ave. Winston Churchill",
+         "Numero": 13,
+         "Sector": "Altos de Arroyo Hondo III",
+         "Provincia": "Distrito Nacional",
+         "Estado": "Activa"
+        },
+        {
+         "ID": 71,
+         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
+         "PersonaNo": 306,
+         "TipoDomicilio": "Otro",
+         "Calle": "Calle Rafael Augusto Sanchez",
+         "Numero": 256,
+         "Sector": "Plantini",
+         "Provincia": "Distrito Nacional",
+         "Estado": "Activo"
+        },
+        {
+         "ID": 72,
+         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
+         "PersonaNo": 306,
+         "TipoDomicilio": "Veraneo",
+         "Calle": "Calle Luis Alberty",
+         "Numero": 156,
+         "Sector": "Naco",
+         "Provincia": "Distrito Nacional",
+         "Estado": "Activo"
+        },
+        {
+         "ID": 73,
+         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
+         "PersonaNo": 306,
+         "TipoDomicilio": "Residencia",
+         "Calle": "Calle Rafael Augusto Sanchez",
+         "Numero": 14,
+         "Sector": "Naco",
+         "Provincia": "Santiago",
+         "Estado": "Activo"
+        },
+        {
+         "ID": 74,
+         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
+         "PersonaNo": 306,
+         "TipoDomicilio": "Oficina principal",
+         "Calle": "Ave. Winston Churchill",
+         "Numero": 1020,
+         "Sector": "Evaristo Morales",
+         "Provincia": "Distrito Nacional",
+         "Estado": "Activo"
+        },
+        {
+         "ID": 75,
+         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
+         "PersonaNo": 306,
+         "TipoDomicilio": "Sucursal",
+         "Calle": "Paseo Oeste",
+         "Numero": "S\/N",
+         "Sector": "La Rosaelda",
+         "Provincia": "Santiago de Los Caballeros",
          "Estado": "Activo"
         },
         {
@@ -1225,92 +1225,15 @@
          "ID": 112,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
-         "TipoDomicilio": "Sucursal",
-         "Calle": "Paseo Oeste",
-         "Numero": "S\/N",
-         "Sector": "La Rosaelda",
-         "Provincia": "Santiago de Los Caballeros",
-         "Estado": "Activo"
-        },
-        {
-         "ID": 113,
-         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
-         "PersonaNo": 306,
-         "TipoDomicilio": "Trabajo",
-         "Calle": "Calle Rafael Augusto Sanchez",
-         "Numero": "S\/N",
+         "TipoDomicilio": "Oficina principal",
+         "Calle": "Ave. Winston Churchill",
+         "Numero": 1020,
          "Sector": "Evaristo Morales",
          "Provincia": "Distrito Nacional",
          "Estado": "Activo"
         },
         {
-         "ID": 114,
-         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
-         "PersonaNo": 306,
-         "TipoDomicilio": "Sucursal",
-         "Calle": "Ave. Winston Churchill",
-         "Numero": "S\/N",
-         "Sector": "Centro de la Ciudad",
-         "Provincia": "La Romana",
-         "Estado": "Activo"
-        },
-        {
-         "ID": 115,
-         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
-         "PersonaNo": 306,
-         "TipoDomicilio": "Verano",
-         "Calle": "Calle Rafael Augusto Sanchez",
-         "Numero": 4,
-         "Sector": "Naco",
-         "Provincia": "La Romana",
-         "Estado": "Activo"
-        },
-        {
-         "ID": 116,
-         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
-         "PersonaNo": 306,
-         "TipoDomicilio": "Sucursal",
-         "Calle": "Manuel de Jesus Troncoso",
-         "Numero": "42a",
-         "Sector": "La Romana",
-         "Provincia": "La Romana",
-         "Estado": "Activo"
-        },
-        {
-         "ID": 117,
-         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
-         "PersonaNo": 306,
-         "TipoDomicilio": "Trabajo",
-         "Calle": "Ave. Winston Churchill",
-         "Numero": 13,
-         "Sector": "Altos de Arroyo Hondo III",
-         "Provincia": "Distrito Nacional",
-         "Estado": "Activa"
-        },
-        {
-         "ID": 118,
-         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
-         "PersonaNo": 306,
-         "TipoDomicilio": "Otro",
-         "Calle": "Calle Rafael Augusto Sanchez",
-         "Numero": 256,
-         "Sector": "Plantini",
-         "Provincia": "Distrito Nacional",
-         "Estado": "Activo"
-        },
-        {
-         "ID": 119,
-         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
-         "PersonaNo": 306,
-         "TipoDomicilio": "Veraneo",
-         "Calle": "Calle Luis Alberty",
-         "Numero": 156,
-         "Sector": "Naco",
-         "Provincia": "Distrito Nacional",
-         "Estado": "Activo"
-        },
-        {
-         "ID": 120,
+         "ID": 113,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Residencia",
@@ -1321,7 +1244,62 @@
          "Estado": "Activo"
         },
         {
-         "ID": 121,
+         "ID": 114,
+         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
+         "PersonaNo": 306,
+         "TipoDomicilio": "Sucursal",
+         "Calle": "Manuel de Jesus Troncoso",
+         "Numero": "42a",
+         "Sector": "La Romana",
+         "Provincia": "La Romana",
+         "Estado": "Activo"
+        },
+        {
+         "ID": 115,
+         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
+         "PersonaNo": 306,
+         "TipoDomicilio": "Trabajo",
+         "Calle": "Ave. Winston Churchill",
+         "Numero": 13,
+         "Sector": "Altos de Arroyo Hondo III",
+         "Provincia": "Distrito Nacional",
+         "Estado": "Activa"
+        },
+        {
+         "ID": 116,
+         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
+         "PersonaNo": 306,
+         "TipoDomicilio": "Otro",
+         "Calle": "Calle Rafael Augusto Sanchez",
+         "Numero": 256,
+         "Sector": "Plantini",
+         "Provincia": "Distrito Nacional",
+         "Estado": "Activo"
+        },
+        {
+         "ID": 117,
+         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
+         "PersonaNo": 306,
+         "TipoDomicilio": "Veraneo",
+         "Calle": "Calle Luis Alberty",
+         "Numero": 156,
+         "Sector": "Naco",
+         "Provincia": "Distrito Nacional",
+         "Estado": "Activo"
+        },
+        {
+         "ID": 118,
+         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
+         "PersonaNo": 306,
+         "TipoDomicilio": "Residencia",
+         "Calle": "Calle Rafael Augusto Sanchez",
+         "Numero": 14,
+         "Sector": "Naco",
+         "Provincia": "Santiago",
+         "Estado": "Activo"
+        },
+        {
+         "ID": 119,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Oficina principal",
@@ -1332,7 +1310,7 @@
          "Estado": "Activo"
         },
         {
-         "ID": 122,
+         "ID": 120,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Sucursal",
@@ -1343,7 +1321,7 @@
          "Estado": "Activo"
         },
         {
-         "ID": 123,
+         "ID": 121,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Trabajo",
@@ -1354,7 +1332,7 @@
          "Estado": "Activo"
         },
         {
-         "ID": 124,
+         "ID": 122,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Sucursal",
@@ -1365,7 +1343,7 @@
          "Estado": "Activo"
         },
         {
-         "ID": 125,
+         "ID": 123,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Verano",
@@ -1376,7 +1354,7 @@
          "Estado": "Activo"
         },
         {
-         "ID": 126,
+         "ID": 124,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Sucursal",
@@ -1387,7 +1365,7 @@
          "Estado": "Activo"
         },
         {
-         "ID": 127,
+         "ID": 125,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Trabajo",
@@ -1395,10 +1373,10 @@
          "Numero": 13,
          "Sector": "Altos de Arroyo Hondo III",
          "Provincia": "Distrito Nacional",
-         "Estado": "Activa"
+         "Estado": "Activo"
         },
         {
-         "ID": 128,
+         "ID": 126,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Otro",
@@ -1409,7 +1387,7 @@
          "Estado": "Activo"
         },
         {
-         "ID": 129,
+         "ID": 127,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Veraneo",
@@ -1420,7 +1398,7 @@
          "Estado": "Activo"
         },
         {
-         "ID": 130,
+         "ID": 128,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Residencia",
@@ -1428,6 +1406,28 @@
          "Numero": 14,
          "Sector": "Naco",
          "Provincia": "Santiago",
+         "Estado": "Activo"
+        },
+        {
+         "ID": 129,
+         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
+         "PersonaNo": 306,
+         "TipoDomicilio": "Oficina principal",
+         "Calle": "Ave. Winston Churchill",
+         "Numero": 1020,
+         "Sector": "Evaristo Morales",
+         "Provincia": "Distrito Nacional",
+         "Estado": "Activo"
+        },
+        {
+         "ID": 130,
+         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
+         "PersonaNo": 306,
+         "TipoDomicilio": "Sucursal",
+         "Calle": "Paseo Oeste",
+         "Numero": "S\/N",
+         "Sector": "La Rosaelda",
+         "Provincia": "Santiago de Los Caballeros",
          "Estado": "Activo"
         },
         {
@@ -1445,48 +1445,15 @@
          "ID": 132,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
-         "TipoDomicilio": "Sucursal",
-         "Calle": "Paseo Oeste",
-         "Numero": "S\/N",
-         "Sector": "La Rosaelda",
-         "Provincia": "Santiago de Los Caballeros",
+         "TipoDomicilio": "Residencia",
+         "Calle": "Calle Rafael Augusto Sanchez",
+         "Numero": 14,
+         "Sector": "Naco",
+         "Provincia": "Santiago",
          "Estado": "Activo"
         },
         {
          "ID": 133,
-         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
-         "PersonaNo": 306,
-         "TipoDomicilio": "Trabajo",
-         "Calle": "Calle Rafael Augusto Sanchez",
-         "Numero": "S\/N",
-         "Sector": "Evaristo Morales",
-         "Provincia": "Distrito Nacional",
-         "Estado": "Activo"
-        },
-        {
-         "ID": 134,
-         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
-         "PersonaNo": 306,
-         "TipoDomicilio": "Sucursal",
-         "Calle": "Ave. Winston Churchill",
-         "Numero": "S\/N",
-         "Sector": "Centro de la Ciudad",
-         "Provincia": "La Romana",
-         "Estado": "Activo"
-        },
-        {
-         "ID": 135,
-         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
-         "PersonaNo": 306,
-         "TipoDomicilio": "Verano",
-         "Calle": "Calle Rafael Augusto Sanchez",
-         "Numero": 4,
-         "Sector": "Naco",
-         "Provincia": "La Romana",
-         "Estado": "Activo"
-        },
-        {
-         "ID": 136,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Sucursal",
@@ -1497,7 +1464,7 @@
          "Estado": "Activo"
         },
         {
-         "ID": 137,
+         "ID": 134,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Trabajo",
@@ -1508,13 +1475,46 @@
          "Estado": "Activa"
         },
         {
-         "ID": 138,
+         "ID": 135,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Otro",
          "Calle": "Calle Rafael Augusto Sanchez",
          "Numero": 256,
          "Sector": "Plantini",
+         "Provincia": "Distrito Nacional",
+         "Estado": "Activo"
+        },
+        {
+         "ID": 136,
+         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
+         "PersonaNo": 306,
+         "TipoDomicilio": "Veraneo",
+         "Calle": "Calle Luis Alberty",
+         "Numero": 156,
+         "Sector": "Naco",
+         "Provincia": "Distrito Nacional",
+         "Estado": "Activo"
+        },
+        {
+         "ID": 137,
+         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
+         "PersonaNo": 306,
+         "TipoDomicilio": "Residencia",
+         "Calle": "Calle Rafael Augusto Sanchez",
+         "Numero": 14,
+         "Sector": "Naco",
+         "Provincia": "Santiago",
+         "Estado": "Activo"
+        },
+        {
+         "ID": 138,
+         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
+         "PersonaNo": 306,
+         "TipoDomicilio": "Oficina principal",
+         "Calle": "Ave. Winston Churchill",
+         "Numero": 1020,
+         "Sector": "Evaristo Morales",
          "Provincia": "Distrito Nacional",
          "Estado": "Activo"
         },
@@ -1522,39 +1522,6 @@
          "ID": 139,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
-         "TipoDomicilio": "Veraneo",
-         "Calle": "Calle Luis Alberty",
-         "Numero": 156,
-         "Sector": "Naco",
-         "Provincia": "Distrito Nacional",
-         "Estado": "Activo"
-        },
-        {
-         "ID": 140,
-         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
-         "PersonaNo": 306,
-         "TipoDomicilio": "Residencia",
-         "Calle": "Calle Rafael Augusto Sanchez",
-         "Numero": 14,
-         "Sector": "Naco",
-         "Provincia": "Santiago",
-         "Estado": "Activo"
-        },
-        {
-         "ID": 141,
-         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
-         "PersonaNo": 306,
-         "TipoDomicilio": "Oficina principal",
-         "Calle": "Ave. Winston Churchill",
-         "Numero": 1020,
-         "Sector": "Evaristo Morales",
-         "Provincia": "Distrito Nacional",
-         "Estado": "Activo"
-        },
-        {
-         "ID": 142,
-         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
-         "PersonaNo": 306,
          "TipoDomicilio": "Sucursal",
          "Calle": "Paseo Oeste",
          "Numero": "S\/N",
@@ -1563,7 +1530,7 @@
          "Estado": "Activo"
         },
         {
-         "ID": 143,
+         "ID": 140,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Trabajo",
@@ -1574,7 +1541,7 @@
          "Estado": "Activo"
         },
         {
-         "ID": 144,
+         "ID": 141,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Sucursal",
@@ -1585,7 +1552,7 @@
          "Estado": "Activo"
         },
         {
-         "ID": 145,
+         "ID": 142,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Verano",
@@ -1596,7 +1563,7 @@
          "Estado": "Activo"
         },
         {
-         "ID": 146,
+         "ID": 143,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Sucursal",
@@ -1607,7 +1574,7 @@
          "Estado": "Activo"
         },
         {
-         "ID": 147,
+         "ID": 144,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Trabajo",
@@ -1615,16 +1582,49 @@
          "Numero": 13,
          "Sector": "Altos de Arroyo Hondo III",
          "Provincia": "Distrito Nacional",
-         "Estado": "Activa"
+         "Estado": "Activo"
         },
         {
-         "ID": 148,
+         "ID": 145,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Otro",
          "Calle": "Calle Rafael Augusto Sanchez",
          "Numero": 256,
          "Sector": "Plantini",
+         "Provincia": "Distrito Nacional",
+         "Estado": "Activo"
+        },
+        {
+         "ID": 146,
+         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
+         "PersonaNo": 306,
+         "TipoDomicilio": "Veraneo",
+         "Calle": "Calle Luis Alberty",
+         "Numero": 156,
+         "Sector": "Naco",
+         "Provincia": "Distrito Nacional",
+         "Estado": "Activo"
+        },
+        {
+         "ID": 147,
+         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
+         "PersonaNo": 306,
+         "TipoDomicilio": "Residencia",
+         "Calle": "Calle Rafael Augusto Sanchez",
+         "Numero": 14,
+         "Sector": "Naco",
+         "Provincia": "Santiago",
+         "Estado": "Activo"
+        },
+        {
+         "ID": 148,
+         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
+         "PersonaNo": 306,
+         "TipoDomicilio": "Oficina principal",
+         "Calle": "Ave. Winston Churchill",
+         "Numero": 1020,
+         "Sector": "Evaristo Morales",
          "Provincia": "Distrito Nacional",
          "Estado": "Activo"
         },
@@ -1632,39 +1632,6 @@
          "ID": 149,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
-         "TipoDomicilio": "Veraneo",
-         "Calle": "Calle Luis Alberty",
-         "Numero": 156,
-         "Sector": "Naco",
-         "Provincia": "Distrito Nacional",
-         "Estado": "Activo"
-        },
-        {
-         "ID": 150,
-         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
-         "PersonaNo": 306,
-         "TipoDomicilio": "Residencia",
-         "Calle": "Calle Rafael Augusto Sanchez",
-         "Numero": 14,
-         "Sector": "Naco",
-         "Provincia": "Santiago",
-         "Estado": "Activo"
-        },
-        {
-         "ID": 151,
-         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
-         "PersonaNo": 306,
-         "TipoDomicilio": "Oficina principal",
-         "Calle": "Ave. Winston Churchill",
-         "Numero": 1020,
-         "Sector": "Evaristo Morales",
-         "Provincia": "Distrito Nacional",
-         "Estado": "Activo"
-        },
-        {
-         "ID": 152,
-         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
-         "PersonaNo": 306,
          "TipoDomicilio": "Sucursal",
          "Calle": "Paseo Oeste",
          "Numero": "S\/N",
@@ -1673,7 +1640,7 @@
          "Estado": "Activo"
         },
         {
-         "ID": 153,
+         "ID": 150,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Trabajo",
@@ -1684,7 +1651,7 @@
          "Estado": "Activo"
         },
         {
-         "ID": 154,
+         "ID": 151,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Sucursal",
@@ -1695,7 +1662,7 @@
          "Estado": "Activo"
         },
         {
-         "ID": 155,
+         "ID": 152,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Verano",
@@ -1706,7 +1673,7 @@
          "Estado": "Activo"
         },
         {
-         "ID": 156,
+         "ID": 153,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Sucursal",
@@ -1717,7 +1684,7 @@
          "Estado": "Activo"
         },
         {
-         "ID": 157,
+         "ID": 154,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Trabajo",
@@ -1728,13 +1695,46 @@
          "Estado": "Activa"
         },
         {
-         "ID": 158,
+         "ID": 155,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Otro",
          "Calle": "Calle Rafael Augusto Sanchez",
          "Numero": 256,
          "Sector": "Plantini",
+         "Provincia": "Distrito Nacional",
+         "Estado": "Activo"
+        },
+        {
+         "ID": 156,
+         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
+         "PersonaNo": 306,
+         "TipoDomicilio": "Veraneo",
+         "Calle": "Calle Luis Alberty",
+         "Numero": 156,
+         "Sector": "Naco",
+         "Provincia": "Distrito Nacional",
+         "Estado": "Activo"
+        },
+        {
+         "ID": 157,
+         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
+         "PersonaNo": 306,
+         "TipoDomicilio": "Residencia",
+         "Calle": "Calle Rafael Augusto Sanchez",
+         "Numero": 14,
+         "Sector": "Naco",
+         "Provincia": "Santiago",
+         "Estado": "Activo"
+        },
+        {
+         "ID": 158,
+         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
+         "PersonaNo": 306,
+         "TipoDomicilio": "Oficina principal",
+         "Calle": "Ave. Winston Churchill",
+         "Numero": 1020,
+         "Sector": "Evaristo Morales",
          "Provincia": "Distrito Nacional",
          "Estado": "Activo"
         },
@@ -1742,39 +1742,6 @@
          "ID": 159,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
-         "TipoDomicilio": "Veraneo",
-         "Calle": "Calle Luis Alberty",
-         "Numero": 156,
-         "Sector": "Naco",
-         "Provincia": "Distrito Nacional",
-         "Estado": "Activo"
-        },
-        {
-         "ID": 160,
-         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
-         "PersonaNo": 306,
-         "TipoDomicilio": "Residencia",
-         "Calle": "Calle Rafael Augusto Sanchez",
-         "Numero": 14,
-         "Sector": "Naco",
-         "Provincia": "Santiago",
-         "Estado": "Activo"
-        },
-        {
-         "ID": 161,
-         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
-         "PersonaNo": 306,
-         "TipoDomicilio": "Oficina principal",
-         "Calle": "Ave. Winston Churchill",
-         "Numero": 1020,
-         "Sector": "Evaristo Morales",
-         "Provincia": "Distrito Nacional",
-         "Estado": "Activo"
-        },
-        {
-         "ID": 162,
-         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
-         "PersonaNo": 306,
          "TipoDomicilio": "Sucursal",
          "Calle": "Paseo Oeste",
          "Numero": "S\/N",
@@ -1783,51 +1750,7 @@
          "Estado": "Activo"
         },
         {
-         "ID": 163,
-         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
-         "PersonaNo": 306,
-         "TipoDomicilio": "Trabajo",
-         "Calle": "Calle Rafael Augusto Sanchez",
-         "Numero": "S\/N",
-         "Sector": "Evaristo Morales",
-         "Provincia": "Distrito Nacional",
-         "Estado": "Activo"
-        },
-        {
-         "ID": 164,
-         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
-         "PersonaNo": 306,
-         "TipoDomicilio": "Sucursal",
-         "Calle": "Ave. Winston Churchill",
-         "Numero": "S\/N",
-         "Sector": "Centro de la Ciudad",
-         "Provincia": "La Romana",
-         "Estado": "Activo"
-        },
-        {
-         "ID": 165,
-         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
-         "PersonaNo": 306,
-         "TipoDomicilio": "Verano",
-         "Calle": "Calle Rafael Augusto Sanchez",
-         "Numero": 4,
-         "Sector": "Naco",
-         "Provincia": "La Romana",
-         "Estado": "Activo"
-        },
-        {
-         "ID": 166,
-         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
-         "PersonaNo": 306,
-         "TipoDomicilio": "Sucursal",
-         "Calle": "Manuel de Jesus Troncoso",
-         "Numero": "42a",
-         "Sector": "La Romana",
-         "Provincia": "La Romana",
-         "Estado": "Activo"
-        },
-        {
-         "ID": 167,
+         "ID": 160,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Trabajo",
@@ -1835,10 +1758,10 @@
          "Numero": 13,
          "Sector": "Altos de Arroyo Hondo III",
          "Provincia": "Distrito Nacional",
-         "Estado": "Activa"
+         "Estado": "Activo"
         },
         {
-         "ID": 168,
+         "ID": 161,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Otro",
@@ -1849,7 +1772,7 @@
          "Estado": "Activo"
         },
         {
-         "ID": 169,
+         "ID": 162,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Veraneo",
@@ -1860,7 +1783,7 @@
          "Estado": "Activo"
         },
         {
-         "ID": 170,
+         "ID": 163,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Residencia",
@@ -1871,7 +1794,7 @@
          "Estado": "Activo"
         },
         {
-         "ID": 171,
+         "ID": 164,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Oficina principal",
@@ -1882,7 +1805,7 @@
          "Estado": "Activo"
         },
         {
-         "ID": 172,
+         "ID": 165,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Sucursal",
@@ -1893,7 +1816,7 @@
          "Estado": "Activo"
         },
         {
-         "ID": 173,
+         "ID": 166,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Trabajo",
@@ -1904,7 +1827,7 @@
          "Estado": "Activo"
         },
         {
-         "ID": 174,
+         "ID": 167,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Sucursal",
@@ -1915,7 +1838,7 @@
          "Estado": "Activo"
         },
         {
-         "ID": 175,
+         "ID": 168,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Verano",
@@ -1923,6 +1846,83 @@
          "Numero": 4,
          "Sector": "Naco",
          "Provincia": "La Romana",
+         "Estado": "Activo"
+        },
+        {
+         "ID": 169,
+         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
+         "PersonaNo": 306,
+         "TipoDomicilio": "Sucursal",
+         "Calle": "Manuel de Jesus Troncoso",
+         "Numero": "42a",
+         "Sector": "La Romana",
+         "Provincia": "La Romana",
+         "Estado": "Activo"
+        },
+        {
+         "ID": 170,
+         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
+         "PersonaNo": 306,
+         "TipoDomicilio": "Trabajo",
+         "Calle": "Ave. Winston Churchill",
+         "Numero": 13,
+         "Sector": "Altos de Arroyo Hondo III",
+         "Provincia": "Distrito Nacional",
+         "Estado": "Activa"
+        },
+        {
+         "ID": 171,
+         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
+         "PersonaNo": 306,
+         "TipoDomicilio": "Otro",
+         "Calle": "Calle Rafael Augusto Sanchez",
+         "Numero": 256,
+         "Sector": "Plantini",
+         "Provincia": "Distrito Nacional",
+         "Estado": "Activo"
+        },
+        {
+         "ID": 172,
+         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
+         "PersonaNo": 306,
+         "TipoDomicilio": "Veraneo",
+         "Calle": "Calle Luis Alberty",
+         "Numero": 156,
+         "Sector": "Naco",
+         "Provincia": "Distrito Nacional",
+         "Estado": "Activo"
+        },
+        {
+         "ID": 173,
+         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
+         "PersonaNo": 306,
+         "TipoDomicilio": "Residencia",
+         "Calle": "Calle Rafael Augusto Sanchez",
+         "Numero": 14,
+         "Sector": "Naco",
+         "Provincia": "Santiago",
+         "Estado": "Activo"
+        },
+        {
+         "ID": 174,
+         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
+         "PersonaNo": 306,
+         "TipoDomicilio": "Oficina principal",
+         "Calle": "Ave. Winston Churchill",
+         "Numero": 1020,
+         "Sector": "Evaristo Morales",
+         "Provincia": "Distrito Nacional",
+         "Estado": "Activo"
+        },
+        {
+         "ID": 175,
+         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
+         "PersonaNo": 306,
+         "TipoDomicilio": "Sucursal",
+         "Calle": "Paseo Oeste",
+         "Numero": "S\/N",
+         "Sector": "La Rosaelda",
+         "Provincia": "Santiago de Los Caballeros",
          "Estado": "Activo"
         },
         {
@@ -2105,17 +2105,6 @@
          "ID": 192,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
-         "TipoDomicilio": "Oficina principal",
-         "Calle": "Ave. Winston Churchill",
-         "Numero": 1020,
-         "Sector": "Evaristo Morales",
-         "Provincia": "Distrito Nacional",
-         "Estado": "Activo"
-        },
-        {
-         "ID": 193,
-         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
-         "PersonaNo": 306,
          "TipoDomicilio": "Sucursal",
          "Calle": "Paseo Oeste",
          "Numero": "S\/N",
@@ -2124,84 +2113,18 @@
          "Estado": "Activo"
         },
         {
-         "ID": 194,
+         "ID": 193,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
-         "TipoDomicilio": "Trabajo",
-         "Calle": "Calle Rafael Augusto Sanchez",
-         "Numero": "S\/N",
+         "TipoDomicilio": "Oficina principal",
+         "Calle": "Ave. Winston Churchill",
+         "Numero": 1020,
          "Sector": "Evaristo Morales",
          "Provincia": "Distrito Nacional",
          "Estado": "Activo"
         },
         {
-         "ID": 195,
-         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
-         "PersonaNo": 306,
-         "TipoDomicilio": "Sucursal",
-         "Calle": "Ave. Winston Churchill",
-         "Numero": "S\/N",
-         "Sector": "Centro de la Ciudad",
-         "Provincia": "La Romana",
-         "Estado": "Activo"
-        },
-        {
-         "ID": 196,
-         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
-         "PersonaNo": 306,
-         "TipoDomicilio": "Verano",
-         "Calle": "Calle Rafael Augusto Sanchez",
-         "Numero": 4,
-         "Sector": "Naco",
-         "Provincia": "La Romana",
-         "Estado": "Activo"
-        },
-        {
-         "ID": 197,
-         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
-         "PersonaNo": 306,
-         "TipoDomicilio": "Sucursal",
-         "Calle": "Manuel de Jesus Troncoso",
-         "Numero": "42a",
-         "Sector": "La Romana",
-         "Provincia": "La Romana",
-         "Estado": "Activo"
-        },
-        {
-         "ID": 198,
-         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
-         "PersonaNo": 306,
-         "TipoDomicilio": "Trabajo",
-         "Calle": "Ave. Winston Churchill",
-         "Numero": 13,
-         "Sector": "Altos de Arroyo Hondo III",
-         "Provincia": "Distrito Nacional",
-         "Estado": "Activa"
-        },
-        {
-         "ID": 199,
-         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
-         "PersonaNo": 306,
-         "TipoDomicilio": "Otro",
-         "Calle": "Calle Rafael Augusto Sanchez",
-         "Numero": 256,
-         "Sector": "Plantini",
-         "Provincia": "Distrito Nacional",
-         "Estado": "Activo"
-        },
-        {
-         "ID": 200,
-         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
-         "PersonaNo": 306,
-         "TipoDomicilio": "Veraneo",
-         "Calle": "Calle Luis Alberty",
-         "Numero": 156,
-         "Sector": "Naco",
-         "Provincia": "Distrito Nacional",
-         "Estado": "Activo"
-        },
-        {
-         "ID": 201,
+         "ID": 194,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Residencia",
@@ -2212,12 +2135,89 @@
          "Estado": "Activo"
         },
         {
-         "ID": 202,
+         "ID": 195,
+         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
+         "PersonaNo": 306,
+         "TipoDomicilio": "Sucursal",
+         "Calle": "Manuel de Jesus Troncoso",
+         "Numero": "42a",
+         "Sector": "La Romana",
+         "Provincia": "La Romana",
+         "Estado": "Activo"
+        },
+        {
+         "ID": 196,
+         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
+         "PersonaNo": 306,
+         "TipoDomicilio": "Trabajo",
+         "Calle": "Ave. Winston Churchill",
+         "Numero": 13,
+         "Sector": "Altos de Arroyo Hondo III",
+         "Provincia": "Distrito Nacional",
+         "Estado": "Activa"
+        },
+        {
+         "ID": 197,
+         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
+         "PersonaNo": 306,
+         "TipoDomicilio": "Otro",
+         "Calle": "Calle Rafael Augusto Sanchez",
+         "Numero": 256,
+         "Sector": "Plantini",
+         "Provincia": "Distrito Nacional",
+         "Estado": "Activo"
+        },
+        {
+         "ID": 198,
+         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
+         "PersonaNo": 306,
+         "TipoDomicilio": "Veraneo",
+         "Calle": "Calle Luis Alberty",
+         "Numero": 156,
+         "Sector": "Naco",
+         "Provincia": "Distrito Nacional",
+         "Estado": "Activo"
+        },
+        {
+         "ID": 199,
+         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
+         "PersonaNo": 306,
+         "TipoDomicilio": "Residencia",
+         "Calle": "Calle Rafael Augusto Sanchez",
+         "Numero": 14,
+         "Sector": "Naco",
+         "Provincia": "Santiago",
+         "Estado": "Activo"
+        },
+        {
+         "ID": 200,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Oficina principal",
          "Calle": "Ave. Winston Churchill",
          "Numero": 1020,
+         "Sector": "Evaristo Morales",
+         "Provincia": "Distrito Nacional",
+         "Estado": "Activo"
+        },
+        {
+         "ID": 201,
+         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
+         "PersonaNo": 306,
+         "TipoDomicilio": "Sucursal",
+         "Calle": "Paseo Oeste",
+         "Numero": "S\/N",
+         "Sector": "La Rosaelda",
+         "Provincia": "Santiago de Los Caballeros",
+         "Estado": "Activo"
+        },
+        {
+         "ID": 202,
+         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
+         "PersonaNo": 306,
+         "TipoDomicilio": "Trabajo",
+         "Calle": "Calle Rafael Augusto Sanchez",
+         "Numero": "S\/N",
          "Sector": "Evaristo Morales",
          "Provincia": "Distrito Nacional",
          "Estado": "Activo"
@@ -2226,39 +2226,6 @@
          "ID": 203,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
-         "TipoDomicilio": "Oficina principal",
-         "Calle": "Ave. Winston Churchill",
-         "Numero": 1020,
-         "Sector": "Evaristo Morales",
-         "Provincia": "Distrito Nacional",
-         "Estado": "Activo"
-        },
-        {
-         "ID": 204,
-         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
-         "PersonaNo": 306,
-         "TipoDomicilio": "Sucursal",
-         "Calle": "Paseo Oeste",
-         "Numero": "S\/N",
-         "Sector": "La Rosaelda",
-         "Provincia": "Santiago de Los Caballeros",
-         "Estado": "Activo"
-        },
-        {
-         "ID": 205,
-         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
-         "PersonaNo": 306,
-         "TipoDomicilio": "Trabajo",
-         "Calle": "Calle Rafael Augusto Sanchez",
-         "Numero": "S\/N",
-         "Sector": "Evaristo Morales",
-         "Provincia": "Distrito Nacional",
-         "Estado": "Activo"
-        },
-        {
-         "ID": 206,
-         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
-         "PersonaNo": 306,
          "TipoDomicilio": "Sucursal",
          "Calle": "Ave. Winston Churchill",
          "Numero": "S\/N",
@@ -2267,7 +2234,7 @@
          "Estado": "Activo"
         },
         {
-         "ID": 207,
+         "ID": 204,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Verano",
@@ -2278,7 +2245,7 @@
          "Estado": "Activo"
         },
         {
-         "ID": 208,
+         "ID": 205,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Sucursal",
@@ -2289,7 +2256,7 @@
          "Estado": "Activo"
         },
         {
-         "ID": 209,
+         "ID": 206,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Trabajo",
@@ -2297,16 +2264,49 @@
          "Numero": 13,
          "Sector": "Altos de Arroyo Hondo III",
          "Provincia": "Distrito Nacional",
-         "Estado": "Activa"
+         "Estado": "Activo"
         },
         {
-         "ID": 210,
+         "ID": 207,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Otro",
          "Calle": "Calle Rafael Augusto Sanchez",
          "Numero": 256,
          "Sector": "Plantini",
+         "Provincia": "Distrito Nacional",
+         "Estado": "Activo"
+        },
+        {
+         "ID": 208,
+         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
+         "PersonaNo": 306,
+         "TipoDomicilio": "Veraneo",
+         "Calle": "Calle Luis Alberty",
+         "Numero": 156,
+         "Sector": "Naco",
+         "Provincia": "Distrito Nacional",
+         "Estado": "Activo"
+        },
+        {
+         "ID": 209,
+         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
+         "PersonaNo": 306,
+         "TipoDomicilio": "Residencia",
+         "Calle": "Calle Rafael Augusto Sanchez",
+         "Numero": 14,
+         "Sector": "Naco",
+         "Provincia": "Santiago",
+         "Estado": "Activo"
+        },
+        {
+         "ID": 210,
+         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
+         "PersonaNo": 306,
+         "TipoDomicilio": "Oficina principal",
+         "Calle": "Ave. Winston Churchill",
+         "Numero": 1020,
+         "Sector": "Evaristo Morales",
          "Provincia": "Distrito Nacional",
          "Estado": "Activo"
         },
@@ -2314,44 +2314,44 @@
          "ID": 211,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
-         "TipoDomicilio": "Veraneo",
-         "Calle": "Calle Luis Alberty",
-         "Numero": 156,
-         "Sector": "Naco",
-         "Provincia": "Distrito Nacional",
+         "TipoDomicilio": "Sucursal",
+         "Calle": "Paseo Oeste",
+         "Numero": "S\/N",
+         "Sector": "La Rosaelda",
+         "Provincia": "Santiago de Los Caballeros",
          "Estado": "Activo"
         },
         {
          "ID": 212,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
-         "TipoDomicilio": "Residencia",
+         "TipoDomicilio": "Trabajo",
          "Calle": "Calle Rafael Augusto Sanchez",
-         "Numero": 14,
-         "Sector": "Naco",
-         "Provincia": "Santiago",
+         "Numero": "S\/N",
+         "Sector": "Evaristo Morales",
+         "Provincia": "Distrito Nacional",
          "Estado": "Activo"
         },
         {
          "ID": 213,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
-         "TipoDomicilio": "Oficina principal",
+         "TipoDomicilio": "Sucursal",
          "Calle": "Ave. Winston Churchill",
-         "Numero": 1020,
-         "Sector": "Evaristo Morales",
-         "Provincia": "Distrito Nacional",
+         "Numero": "S\/N",
+         "Sector": "Centro de la Ciudad",
+         "Provincia": "La Romana",
          "Estado": "Activo"
         },
         {
          "ID": 214,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
-         "TipoDomicilio": "Oficina principal",
-         "Calle": "Ave. Winston Churchill",
-         "Numero": 1020,
-         "Sector": "Evaristo Morales",
-         "Provincia": "Distrito Nacional",
+         "TipoDomicilio": "Verano",
+         "Calle": "Calle Rafael Augusto Sanchez",
+         "Numero": 4,
+         "Sector": "Naco",
+         "Provincia": "La Romana",
          "Estado": "Activo"
         },
         {
@@ -2359,10 +2359,10 @@
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Sucursal",
-         "Calle": "Paseo Oeste",
-         "Numero": "S\/N",
-         "Sector": "La Rosaelda",
-         "Provincia": "Santiago de Los Caballeros",
+         "Calle": "Manuel de Jesus Troncoso",
+         "Numero": "42a",
+         "Sector": "La Romana",
+         "Provincia": "La Romana",
          "Estado": "Activo"
         },
         {
@@ -2370,50 +2370,6 @@
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Trabajo",
-         "Calle": "Calle Rafael Augusto Sanchez",
-         "Numero": "S\/N",
-         "Sector": "Evaristo Morales",
-         "Provincia": "Distrito Nacional",
-         "Estado": "Activo"
-        },
-        {
-         "ID": 217,
-         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
-         "PersonaNo": 306,
-         "TipoDomicilio": "Sucursal",
-         "Calle": "Ave. Winston Churchill",
-         "Numero": "S\/N",
-         "Sector": "Centro de la Ciudad",
-         "Provincia": "La Romana",
-         "Estado": "Activo"
-        },
-        {
-         "ID": 218,
-         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
-         "PersonaNo": 306,
-         "TipoDomicilio": "Verano",
-         "Calle": "Calle Rafael Augusto Sanchez",
-         "Numero": 4,
-         "Sector": "Naco",
-         "Provincia": "La Romana",
-         "Estado": "Activo"
-        },
-        {
-         "ID": 219,
-         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
-         "PersonaNo": 306,
-         "TipoDomicilio": "Sucursal",
-         "Calle": "Manuel de Jesus Troncoso",
-         "Numero": "42a",
-         "Sector": "La Romana",
-         "Provincia": "La Romana",
-         "Estado": "Activo"
-        },
-        {
-         "ID": 220,
-         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
-         "PersonaNo": 306,
-         "TipoDomicilio": "Trabajo",
          "Calle": "Ave. Winston Churchill",
          "Numero": 13,
          "Sector": "Altos de Arroyo Hondo III",
@@ -2421,7 +2377,7 @@
          "Estado": "Activa"
         },
         {
-         "ID": 221,
+         "ID": 217,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Otro",
@@ -2432,7 +2388,7 @@
          "Estado": "Activo"
         },
         {
-         "ID": 222,
+         "ID": 218,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Veraneo",
@@ -2443,7 +2399,7 @@
          "Estado": "Activo"
         },
         {
-         "ID": 223,
+         "ID": 219,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Residencia",
@@ -2454,7 +2410,7 @@
          "Estado": "Activo"
         },
         {
-         "ID": 224,
+         "ID": 220,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Oficina principal",
@@ -2465,18 +2421,7 @@
          "Estado": "Activo"
         },
         {
-         "ID": 225,
-         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
-         "PersonaNo": 306,
-         "TipoDomicilio": "Oficina principal",
-         "Calle": "Ave. Winston Churchill",
-         "Numero": 1020,
-         "Sector": "Evaristo Morales",
-         "Provincia": "Distrito Nacional",
-         "Estado": "Activo"
-        },
-        {
-         "ID": 226,
+         "ID": 221,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Sucursal",
@@ -2487,51 +2432,7 @@
          "Estado": "Activo"
         },
         {
-         "ID": 227,
-         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
-         "PersonaNo": 306,
-         "TipoDomicilio": "Trabajo",
-         "Calle": "Calle Rafael Augusto Sanchez",
-         "Numero": "S\/N",
-         "Sector": "Evaristo Morales",
-         "Provincia": "Distrito Nacional",
-         "Estado": "Activo"
-        },
-        {
-         "ID": 228,
-         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
-         "PersonaNo": 306,
-         "TipoDomicilio": "Sucursal",
-         "Calle": "Ave. Winston Churchill",
-         "Numero": "S\/N",
-         "Sector": "Centro de la Ciudad",
-         "Provincia": "La Romana",
-         "Estado": "Activo"
-        },
-        {
-         "ID": 229,
-         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
-         "PersonaNo": 306,
-         "TipoDomicilio": "Verano",
-         "Calle": "Calle Rafael Augusto Sanchez",
-         "Numero": 4,
-         "Sector": "Naco",
-         "Provincia": "La Romana",
-         "Estado": "Activo"
-        },
-        {
-         "ID": 230,
-         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
-         "PersonaNo": 306,
-         "TipoDomicilio": "Sucursal",
-         "Calle": "Manuel de Jesus Troncoso",
-         "Numero": "42a",
-         "Sector": "La Romana",
-         "Provincia": "La Romana",
-         "Estado": "Activo"
-        },
-        {
-         "ID": 231,
+         "ID": 222,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Trabajo",
@@ -2539,10 +2440,10 @@
          "Numero": 13,
          "Sector": "Altos de Arroyo Hondo III",
          "Provincia": "Distrito Nacional",
-         "Estado": "Activa"
+         "Estado": "Activo"
         },
         {
-         "ID": 232,
+         "ID": 223,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Otro",
@@ -2553,7 +2454,7 @@
          "Estado": "Activo"
         },
         {
-         "ID": 233,
+         "ID": 224,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Veraneo",
@@ -2564,7 +2465,7 @@
          "Estado": "Activo"
         },
         {
-         "ID": 234,
+         "ID": 225,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Residencia",
@@ -2575,7 +2476,7 @@
          "Estado": "Activo"
         },
         {
-         "ID": 235,
+         "ID": 226,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Oficina principal",
@@ -2583,6 +2484,105 @@
          "Numero": 1020,
          "Sector": "Evaristo Morales",
          "Provincia": "Distrito Nacional",
+         "Estado": "Activo"
+        },
+        {
+         "ID": 227,
+         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
+         "PersonaNo": 306,
+         "TipoDomicilio": "Sucursal",
+         "Calle": "Paseo Oeste",
+         "Numero": "S\/N",
+         "Sector": "La Rosaelda",
+         "Provincia": "Santiago de Los Caballeros",
+         "Estado": "Activo"
+        },
+        {
+         "ID": 228,
+         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
+         "PersonaNo": 306,
+         "TipoDomicilio": "Trabajo",
+         "Calle": "Calle Rafael Augusto Sanchez",
+         "Numero": "S\/N",
+         "Sector": "Evaristo Morales",
+         "Provincia": "Distrito Nacional",
+         "Estado": "Activo"
+        },
+        {
+         "ID": 229,
+         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
+         "PersonaNo": 306,
+         "TipoDomicilio": "Sucursal",
+         "Calle": "Ave. Winston Churchill",
+         "Numero": "S\/N",
+         "Sector": "Centro de la Ciudad",
+         "Provincia": "La Romana",
+         "Estado": "Activo"
+        },
+        {
+         "ID": 230,
+         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
+         "PersonaNo": 306,
+         "TipoDomicilio": "Verano",
+         "Calle": "Calle Rafael Augusto Sanchez",
+         "Numero": 4,
+         "Sector": "Naco",
+         "Provincia": "La Romana",
+         "Estado": "Activo"
+        },
+        {
+         "ID": 231,
+         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
+         "PersonaNo": 306,
+         "TipoDomicilio": "Sucursal",
+         "Calle": "Manuel de Jesus Troncoso",
+         "Numero": "42a",
+         "Sector": "La Romana",
+         "Provincia": "La Romana",
+         "Estado": "Activo"
+        },
+        {
+         "ID": 232,
+         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
+         "PersonaNo": 306,
+         "TipoDomicilio": "Trabajo",
+         "Calle": "Ave. Winston Churchill",
+         "Numero": 13,
+         "Sector": "Altos de Arroyo Hondo III",
+         "Provincia": "Distrito Nacional",
+         "Estado": "Activa"
+        },
+        {
+         "ID": 233,
+         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
+         "PersonaNo": 306,
+         "TipoDomicilio": "Otro",
+         "Calle": "Calle Rafael Augusto Sanchez",
+         "Numero": 256,
+         "Sector": "Plantini",
+         "Provincia": "Distrito Nacional",
+         "Estado": "Activo"
+        },
+        {
+         "ID": 234,
+         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
+         "PersonaNo": 306,
+         "TipoDomicilio": "Veraneo",
+         "Calle": "Calle Luis Alberty",
+         "Numero": 156,
+         "Sector": "Naco",
+         "Provincia": "Distrito Nacional",
+         "Estado": "Activo"
+        },
+        {
+         "ID": 235,
+         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
+         "PersonaNo": 306,
+         "TipoDomicilio": "Residencia",
+         "Calle": "Calle Rafael Augusto Sanchez",
+         "Numero": 14,
+         "Sector": "Naco",
+         "Provincia": "Santiago",
          "Estado": "Activo"
         },
         {
@@ -2611,39 +2611,6 @@
          "ID": 238,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
-         "TipoDomicilio": "Trabajo",
-         "Calle": "Calle Rafael Augusto Sanchez",
-         "Numero": "S\/N",
-         "Sector": "Evaristo Morales",
-         "Provincia": "Distrito Nacional",
-         "Estado": "Activo"
-        },
-        {
-         "ID": 239,
-         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
-         "PersonaNo": 306,
-         "TipoDomicilio": "Sucursal",
-         "Calle": "Ave. Winston Churchill",
-         "Numero": "S\/N",
-         "Sector": "Centro de la Ciudad",
-         "Provincia": "La Romana",
-         "Estado": "Activo"
-        },
-        {
-         "ID": 240,
-         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
-         "PersonaNo": 306,
-         "TipoDomicilio": "Verano",
-         "Calle": "Calle Rafael Augusto Sanchez",
-         "Numero": 4,
-         "Sector": "Naco",
-         "Provincia": "La Romana",
-         "Estado": "Activo"
-        },
-        {
-         "ID": 241,
-         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
-         "PersonaNo": 306,
          "TipoDomicilio": "Sucursal",
          "Calle": "Manuel de Jesus Troncoso",
          "Numero": "42a",
@@ -2652,7 +2619,7 @@
          "Estado": "Activo"
         },
         {
-         "ID": 242,
+         "ID": 239,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Trabajo",
@@ -2663,13 +2630,46 @@
          "Estado": "Activa"
         },
         {
-         "ID": 243,
+         "ID": 240,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Otro",
          "Calle": "Calle Rafael Augusto Sanchez",
          "Numero": 256,
          "Sector": "Plantini",
+         "Provincia": "Distrito Nacional",
+         "Estado": "Activo"
+        },
+        {
+         "ID": 241,
+         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
+         "PersonaNo": 306,
+         "TipoDomicilio": "Veraneo",
+         "Calle": "Calle Luis Alberty",
+         "Numero": 156,
+         "Sector": "Naco",
+         "Provincia": "Distrito Nacional",
+         "Estado": "Activo"
+        },
+        {
+         "ID": 242,
+         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
+         "PersonaNo": 306,
+         "TipoDomicilio": "Residencia",
+         "Calle": "Calle Rafael Augusto Sanchez",
+         "Numero": 14,
+         "Sector": "Naco",
+         "Provincia": "Santiago",
+         "Estado": "Activo"
+        },
+        {
+         "ID": 243,
+         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
+         "PersonaNo": 306,
+         "TipoDomicilio": "Oficina principal",
+         "Calle": "Ave. Winston Churchill",
+         "Numero": 1020,
+         "Sector": "Evaristo Morales",
          "Provincia": "Distrito Nacional",
          "Estado": "Activo"
         },
@@ -2677,44 +2677,44 @@
          "ID": 244,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
-         "TipoDomicilio": "Veraneo",
-         "Calle": "Calle Luis Alberty",
-         "Numero": 156,
-         "Sector": "Naco",
-         "Provincia": "Distrito Nacional",
+         "TipoDomicilio": "Sucursal",
+         "Calle": "Paseo Oeste",
+         "Numero": "S\/N",
+         "Sector": "La Rosaelda",
+         "Provincia": "Santiago de Los Caballeros",
          "Estado": "Activo"
         },
         {
          "ID": 245,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
-         "TipoDomicilio": "Residencia",
+         "TipoDomicilio": "Trabajo",
          "Calle": "Calle Rafael Augusto Sanchez",
-         "Numero": 14,
-         "Sector": "Naco",
-         "Provincia": "Santiago",
+         "Numero": "S\/N",
+         "Sector": "Evaristo Morales",
+         "Provincia": "Distrito Nacional",
          "Estado": "Activo"
         },
         {
          "ID": 246,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
-         "TipoDomicilio": "Oficina principal",
+         "TipoDomicilio": "Sucursal",
          "Calle": "Ave. Winston Churchill",
-         "Numero": 1020,
-         "Sector": "Evaristo Morales",
-         "Provincia": "Distrito Nacional",
+         "Numero": "S\/N",
+         "Sector": "Centro de la Ciudad",
+         "Provincia": "La Romana",
          "Estado": "Activo"
         },
         {
          "ID": 247,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
-         "TipoDomicilio": "Oficina principal",
-         "Calle": "Ave. Winston Churchill",
-         "Numero": 1020,
-         "Sector": "Evaristo Morales",
-         "Provincia": "Distrito Nacional",
+         "TipoDomicilio": "Verano",
+         "Calle": "Calle Rafael Augusto Sanchez",
+         "Numero": 4,
+         "Sector": "Naco",
+         "Provincia": "La Romana",
          "Estado": "Activo"
         },
         {
@@ -2722,10 +2722,10 @@
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Sucursal",
-         "Calle": "Paseo Oeste",
-         "Numero": "S\/N",
-         "Sector": "La Rosaelda",
-         "Provincia": "Santiago de Los Caballeros",
+         "Calle": "Manuel de Jesus Troncoso",
+         "Numero": "42a",
+         "Sector": "La Romana",
+         "Provincia": "La Romana",
          "Estado": "Activo"
         },
         {
@@ -2733,50 +2733,6 @@
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Trabajo",
-         "Calle": "Calle Rafael Augusto Sanchez",
-         "Numero": "S\/N",
-         "Sector": "Evaristo Morales",
-         "Provincia": "Distrito Nacional",
-         "Estado": "Activo"
-        },
-        {
-         "ID": 250,
-         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
-         "PersonaNo": 306,
-         "TipoDomicilio": "Sucursal",
-         "Calle": "Ave. Winston Churchill",
-         "Numero": "S\/N",
-         "Sector": "Centro de la Ciudad",
-         "Provincia": "La Romana",
-         "Estado": "Activo"
-        },
-        {
-         "ID": 251,
-         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
-         "PersonaNo": 306,
-         "TipoDomicilio": "Verano",
-         "Calle": "Calle Rafael Augusto Sanchez",
-         "Numero": 4,
-         "Sector": "Naco",
-         "Provincia": "La Romana",
-         "Estado": "Activo"
-        },
-        {
-         "ID": 252,
-         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
-         "PersonaNo": 306,
-         "TipoDomicilio": "Sucursal",
-         "Calle": "Manuel de Jesus Troncoso",
-         "Numero": "42a",
-         "Sector": "La Romana",
-         "Provincia": "La Romana",
-         "Estado": "Activo"
-        },
-        {
-         "ID": 253,
-         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
-         "PersonaNo": 306,
-         "TipoDomicilio": "Trabajo",
          "Calle": "Ave. Winston Churchill",
          "Numero": 13,
          "Sector": "Altos de Arroyo Hondo III",
@@ -2784,7 +2740,7 @@
          "Estado": "Activa"
         },
         {
-         "ID": 254,
+         "ID": 250,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Otro",
@@ -2795,13 +2751,57 @@
          "Estado": "Activo"
         },
         {
-         "ID": 255,
+         "ID": 251,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Veraneo",
          "Calle": "Calle Luis Alberty",
          "Numero": 156,
          "Sector": "Naco",
+         "Provincia": "Distrito Nacional",
+         "Estado": "Activo"
+        },
+        {
+         "ID": 252,
+         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
+         "PersonaNo": 306,
+         "TipoDomicilio": "Residencia",
+         "Calle": "Calle Rafael Augusto Sanchez",
+         "Numero": 14,
+         "Sector": "Naco",
+         "Provincia": "Santiago",
+         "Estado": "Activo"
+        },
+        {
+         "ID": 253,
+         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
+         "PersonaNo": 306,
+         "TipoDomicilio": "Oficina principal",
+         "Calle": "Ave. Winston Churchill",
+         "Numero": 1020,
+         "Sector": "Evaristo Morales",
+         "Provincia": "Distrito Nacional",
+         "Estado": "Activo"
+        },
+        {
+         "ID": 254,
+         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
+         "PersonaNo": 306,
+         "TipoDomicilio": "Sucursal",
+         "Calle": "Paseo Oeste",
+         "Numero": "S\/N",
+         "Sector": "La Rosaelda",
+         "Provincia": "Santiago de Los Caballeros",
+         "Estado": "Activo"
+        },
+        {
+         "ID": 255,
+         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
+         "PersonaNo": 306,
+         "TipoDomicilio": "Trabajo",
+         "Calle": "Calle Rafael Augusto Sanchez",
+         "Numero": "S\/N",
+         "Sector": "Evaristo Morales",
          "Provincia": "Distrito Nacional",
          "Estado": "Activo"
         },
@@ -2809,54 +2809,54 @@
          "ID": 256,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
-         "TipoDomicilio": "Residencia",
-         "Calle": "Calle Rafael Augusto Sanchez",
-         "Numero": 14,
-         "Sector": "Naco",
-         "Provincia": "Santiago",
+         "TipoDomicilio": "Sucursal",
+         "Calle": "Ave. Winston Churchill",
+         "Numero": "S\/N",
+         "Sector": "Centro de la Ciudad",
+         "Provincia": "La Romana",
          "Estado": "Activo"
         },
         {
          "ID": 257,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
-         "TipoDomicilio": "Oficina principal",
-         "Calle": "Ave. Winston Churchill",
-         "Numero": 1020,
-         "Sector": "Evaristo Morales",
-         "Provincia": "Distrito Nacional",
+         "TipoDomicilio": "Verano",
+         "Calle": "Calle Rafael Augusto Sanchez",
+         "Numero": 4,
+         "Sector": "Naco",
+         "Provincia": "La Romana",
          "Estado": "Activo"
         },
         {
          "ID": 258,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
-         "TipoDomicilio": "Oficina principal",
-         "Calle": "Ave. Winston Churchill",
-         "Numero": 1020,
-         "Sector": "Evaristo Morales",
-         "Provincia": "Distrito Nacional",
+         "TipoDomicilio": "Sucursal",
+         "Calle": "Manuel de Jesus Troncoso",
+         "Numero": "42a",
+         "Sector": "La Romana",
+         "Provincia": "La Romana",
          "Estado": "Activo"
         },
         {
          "ID": 259,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
-         "TipoDomicilio": "Sucursal",
-         "Calle": "Paseo Oeste",
-         "Numero": "S\/N",
-         "Sector": "La Rosaelda",
-         "Provincia": "Santiago de Los Caballeros",
-         "Estado": "Activo"
+         "TipoDomicilio": "Trabajo",
+         "Calle": "Ave. Winston Churchill",
+         "Numero": 13,
+         "Sector": "Altos de Arroyo Hondo III",
+         "Provincia": "Distrito Nacional",
+         "Estado": "Activa"
         },
         {
          "ID": 260,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
-         "TipoDomicilio": "Trabajo",
+         "TipoDomicilio": "Otro",
          "Calle": "Calle Rafael Augusto Sanchez",
-         "Numero": "S\/N",
-         "Sector": "Evaristo Morales",
+         "Numero": 256,
+         "Sector": "Plantini",
          "Provincia": "Distrito Nacional",
          "Estado": "Activo"
         },
@@ -2864,61 +2864,6 @@
          "ID": 261,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
-         "TipoDomicilio": "Sucursal",
-         "Calle": "Ave. Winston Churchill",
-         "Numero": "S\/N",
-         "Sector": "Centro de la Ciudad",
-         "Provincia": "La Romana",
-         "Estado": "Activo"
-        },
-        {
-         "ID": 262,
-         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
-         "PersonaNo": 306,
-         "TipoDomicilio": "Verano",
-         "Calle": "Calle Rafael Augusto Sanchez",
-         "Numero": 4,
-         "Sector": "Naco",
-         "Provincia": "La Romana",
-         "Estado": "Activo"
-        },
-        {
-         "ID": 263,
-         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
-         "PersonaNo": 306,
-         "TipoDomicilio": "Sucursal",
-         "Calle": "Manuel de Jesus Troncoso",
-         "Numero": "42a",
-         "Sector": "La Romana",
-         "Provincia": "La Romana",
-         "Estado": "Activo"
-        },
-        {
-         "ID": 264,
-         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
-         "PersonaNo": 306,
-         "TipoDomicilio": "Trabajo",
-         "Calle": "Ave. Winston Churchill",
-         "Numero": 13,
-         "Sector": "Altos de Arroyo Hondo III",
-         "Provincia": "Distrito Nacional",
-         "Estado": "Activa"
-        },
-        {
-         "ID": 265,
-         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
-         "PersonaNo": 306,
-         "TipoDomicilio": "Otro",
-         "Calle": "Calle Rafael Augusto Sanchez",
-         "Numero": 256,
-         "Sector": "Plantini",
-         "Provincia": "Distrito Nacional",
-         "Estado": "Activo"
-        },
-        {
-         "ID": 266,
-         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
-         "PersonaNo": 306,
          "TipoDomicilio": "Veraneo",
          "Calle": "Calle Luis Alberty",
          "Numero": 156,
@@ -2927,7 +2872,7 @@
          "Estado": "Activo"
         },
         {
-         "ID": 267,
+         "ID": 262,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Residencia",
@@ -2938,7 +2883,7 @@
          "Estado": "Activo"
         },
         {
-         "ID": 268,
+         "ID": 263,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Oficina principal",
@@ -2949,18 +2894,7 @@
          "Estado": "Activo"
         },
         {
-         "ID": 269,
-         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
-         "PersonaNo": 306,
-         "TipoDomicilio": "Oficina principal",
-         "Calle": "Ave. Winston Churchill",
-         "Numero": 1020,
-         "Sector": "Evaristo Morales",
-         "Provincia": "Distrito Nacional",
-         "Estado": "Activo"
-        },
-        {
-         "ID": 270,
+         "ID": 264,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Sucursal",
@@ -2971,7 +2905,7 @@
          "Estado": "Activo"
         },
         {
-         "ID": 271,
+         "ID": 265,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Trabajo",
@@ -2982,7 +2916,7 @@
          "Estado": "Activo"
         },
         {
-         "ID": 272,
+         "ID": 266,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Sucursal",
@@ -2993,7 +2927,7 @@
          "Estado": "Activo"
         },
         {
-         "ID": 273,
+         "ID": 267,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Verano",
@@ -3004,7 +2938,7 @@
          "Estado": "Activo"
         },
         {
-         "ID": 274,
+         "ID": 268,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Sucursal",
@@ -3015,7 +2949,7 @@
          "Estado": "Activo"
         },
         {
-         "ID": 275,
+         "ID": 269,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Trabajo",
@@ -3026,7 +2960,7 @@
          "Estado": "Activa"
         },
         {
-         "ID": 276,
+         "ID": 270,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Otro",
@@ -3037,7 +2971,7 @@
          "Estado": "Activo"
         },
         {
-         "ID": 277,
+         "ID": 271,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Veraneo",
@@ -3048,18 +2982,7 @@
          "Estado": "Activo"
         },
         {
-         "ID": 278,
-         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
-         "PersonaNo": 306,
-         "TipoDomicilio": "Residencia",
-         "Calle": "Calle Rafael Augusto Sanchez",
-         "Numero": 14,
-         "Sector": "Naco",
-         "Provincia": "Santiago",
-         "Estado": "Activo"
-        },
-        {
-         "ID": 279,
+         "ID": 272,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Oficina principal",
@@ -3070,13 +2993,90 @@
          "Estado": "Activo"
         },
         {
+         "ID": 273,
+         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
+         "PersonaNo": 306,
+         "TipoDomicilio": "Sucursal",
+         "Calle": "Paseo Oeste",
+         "Numero": "S\/N",
+         "Sector": "La Rosaelda",
+         "Provincia": "Santiago de Los Caballeros",
+         "Estado": "Activo"
+        },
+        {
+         "ID": 274,
+         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
+         "PersonaNo": 306,
+         "TipoDomicilio": "Trabajo",
+         "Calle": "Calle Rafael Augusto Sanchez",
+         "Numero": "S\/N",
+         "Sector": "Evaristo Morales",
+         "Provincia": "Distrito Nacional",
+         "Estado": "Activo"
+        },
+        {
+         "ID": 275,
+         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
+         "PersonaNo": 306,
+         "TipoDomicilio": "Sucursal",
+         "Calle": "Ave. Winston Churchill",
+         "Numero": "S\/N",
+         "Sector": "Centro de la Ciudad",
+         "Provincia": "La Romana",
+         "Estado": "Activo"
+        },
+        {
+         "ID": 276,
+         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
+         "PersonaNo": 306,
+         "TipoDomicilio": "Verano",
+         "Calle": "Calle Rafael Augusto Sanchez",
+         "Numero": 4,
+         "Sector": "Naco",
+         "Provincia": "La Romana",
+         "Estado": "Activo"
+        },
+        {
+         "ID": 277,
+         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
+         "PersonaNo": 306,
+         "TipoDomicilio": "Sucursal",
+         "Calle": "Manuel de Jesus Troncoso",
+         "Numero": "42a",
+         "Sector": "La Romana",
+         "Provincia": "La Romana",
+         "Estado": "Activo"
+        },
+        {
+         "ID": 278,
+         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
+         "PersonaNo": 306,
+         "TipoDomicilio": "Trabajo",
+         "Calle": "Ave. Winston Churchill",
+         "Numero": 13,
+         "Sector": "Altos de Arroyo Hondo III",
+         "Provincia": "Distrito Nacional",
+         "Estado": "Activa"
+        },
+        {
+         "ID": 279,
+         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
+         "PersonaNo": 306,
+         "TipoDomicilio": "Otro",
+         "Calle": "Calle Rafael Augusto Sanchez",
+         "Numero": 256,
+         "Sector": "Plantini",
+         "Provincia": "Distrito Nacional",
+         "Estado": "Activo"
+        },
+        {
          "ID": 280,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
-         "TipoDomicilio": "Oficina principal",
-         "Calle": "Ave. Winston Churchill",
-         "Numero": 1020,
-         "Sector": "Evaristo Morales",
+         "TipoDomicilio": "Veraneo",
+         "Calle": "Calle Luis Alberty",
+         "Numero": 156,
+         "Sector": "Naco",
          "Provincia": "Distrito Nacional",
          "Estado": "Activo"
         },
@@ -3249,48 +3249,15 @@
          "ID": 296,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
-         "TipoDomicilio": "Sucursal",
-         "Calle": "Manuel de Jesus Troncoso",
-         "Numero": "42a",
-         "Sector": "La Romana",
-         "Provincia": "La Romana",
+         "TipoDomicilio": "Oficina principal",
+         "Calle": "Ave. Winston Churchill",
+         "Numero": 1020,
+         "Sector": "Evaristo Morales",
+         "Provincia": "Distrito Nacional",
          "Estado": "Activo"
         },
         {
          "ID": 297,
-         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
-         "PersonaNo": 306,
-         "TipoDomicilio": "Trabajo",
-         "Calle": "Ave. Winston Churchill",
-         "Numero": 13,
-         "Sector": "Altos de Arroyo Hondo III",
-         "Provincia": "Distrito Nacional",
-         "Estado": "Activa"
-        },
-        {
-         "ID": 298,
-         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
-         "PersonaNo": 306,
-         "TipoDomicilio": "Otro",
-         "Calle": "Calle Rafael Augusto Sanchez",
-         "Numero": 256,
-         "Sector": "Plantini",
-         "Provincia": "Distrito Nacional",
-         "Estado": "Activo"
-        },
-        {
-         "ID": 299,
-         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
-         "PersonaNo": 306,
-         "TipoDomicilio": "Veraneo",
-         "Calle": "Calle Luis Alberty",
-         "Numero": 156,
-         "Sector": "Naco",
-         "Provincia": "Distrito Nacional",
-         "Estado": "Activo"
-        },
-        {
-         "ID": 300,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Residencia",
@@ -3301,13 +3268,46 @@
          "Estado": "Activo"
         },
         {
+         "ID": 298,
+         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
+         "PersonaNo": 306,
+         "TipoDomicilio": "Sucursal",
+         "Calle": "Manuel de Jesus Troncoso",
+         "Numero": "42a",
+         "Sector": "La Romana",
+         "Provincia": "La Romana",
+         "Estado": "Activo"
+        },
+        {
+         "ID": 299,
+         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
+         "PersonaNo": 306,
+         "TipoDomicilio": "Trabajo",
+         "Calle": "Ave. Winston Churchill",
+         "Numero": 13,
+         "Sector": "Altos de Arroyo Hondo III",
+         "Provincia": "Distrito Nacional",
+         "Estado": "Activa"
+        },
+        {
+         "ID": 300,
+         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
+         "PersonaNo": 306,
+         "TipoDomicilio": "Otro",
+         "Calle": "Calle Rafael Augusto Sanchez",
+         "Numero": 256,
+         "Sector": "Plantini",
+         "Provincia": "Distrito Nacional",
+         "Estado": "Activo"
+        },
+        {
          "ID": 301,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
-         "TipoDomicilio": "Oficina principal",
-         "Calle": "Ave. Winston Churchill",
-         "Numero": 1020,
-         "Sector": "Evaristo Morales",
+         "TipoDomicilio": "Veraneo",
+         "Calle": "Calle Luis Alberty",
+         "Numero": 156,
+         "Sector": "Naco",
          "Provincia": "Distrito Nacional",
          "Estado": "Activo"
         },
@@ -3315,6 +3315,17 @@
          "ID": 302,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
+         "TipoDomicilio": "Residencia",
+         "Calle": "Calle Rafael Augusto Sanchez",
+         "Numero": 14,
+         "Sector": "Naco",
+         "Provincia": "Santiago",
+         "Estado": "Activo"
+        },
+        {
+         "ID": 303,
+         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
+         "PersonaNo": 306,
          "TipoDomicilio": "Oficina principal",
          "Calle": "Ave. Winston Churchill",
          "Numero": 1020,
@@ -3323,7 +3334,7 @@
          "Estado": "Activo"
         },
         {
-         "ID": 303,
+         "ID": 304,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Sucursal",
@@ -3334,7 +3345,7 @@
          "Estado": "Activo"
         },
         {
-         "ID": 304,
+         "ID": 305,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Trabajo",
@@ -3345,73 +3356,18 @@
          "Estado": "Activo"
         },
         {
-         "ID": 305,
-         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
-         "PersonaNo": 306,
-         "TipoDomicilio": "Sucursal",
-         "Calle": "Ave. Winston Churchill",
-         "Numero": "S\/N",
-         "Sector": "Centro de la Ciudad",
-         "Provincia": "La Romana",
-         "Estado": "Activo"
-        },
-        {
          "ID": 306,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
-         "TipoDomicilio": "Verano",
-         "Calle": "Calle Rafael Augusto Sanchez",
-         "Numero": 4,
-         "Sector": "Naco",
-         "Provincia": "La Romana",
+         "TipoDomicilio": "Oficina principal",
+         "Calle": "Ave. Winston Churchill",
+         "Numero": 1020,
+         "Sector": "Evaristo Morales",
+         "Provincia": "Distrito Nacional",
          "Estado": "Activo"
         },
         {
          "ID": 307,
-         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
-         "PersonaNo": 306,
-         "TipoDomicilio": "Sucursal",
-         "Calle": "Manuel de Jesus Troncoso",
-         "Numero": "42a",
-         "Sector": "La Romana",
-         "Provincia": "La Romana",
-         "Estado": "Activo"
-        },
-        {
-         "ID": 308,
-         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
-         "PersonaNo": 306,
-         "TipoDomicilio": "Trabajo",
-         "Calle": "Ave. Winston Churchill",
-         "Numero": 13,
-         "Sector": "Altos de Arroyo Hondo III",
-         "Provincia": "Distrito Nacional",
-         "Estado": "Activa"
-        },
-        {
-         "ID": 309,
-         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
-         "PersonaNo": 306,
-         "TipoDomicilio": "Otro",
-         "Calle": "Calle Rafael Augusto Sanchez",
-         "Numero": 256,
-         "Sector": "Plantini",
-         "Provincia": "Distrito Nacional",
-         "Estado": "Activo"
-        },
-        {
-         "ID": 310,
-         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
-         "PersonaNo": 306,
-         "TipoDomicilio": "Veraneo",
-         "Calle": "Calle Luis Alberty",
-         "Numero": 156,
-         "Sector": "Naco",
-         "Provincia": "Distrito Nacional",
-         "Estado": "Activo"
-        },
-        {
-         "ID": 311,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Residencia",
@@ -3422,14 +3378,58 @@
          "Estado": "Activo"
         },
         {
+         "ID": 308,
+         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
+         "PersonaNo": 306,
+         "TipoDomicilio": "Sucursal",
+         "Calle": "Manuel de Jesus Troncoso",
+         "Numero": "42a",
+         "Sector": "La Romana",
+         "Provincia": "La Romana",
+         "Estado": "Activo"
+        },
+        {
+         "ID": 309,
+         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
+         "PersonaNo": 306,
+         "TipoDomicilio": "Trabajo",
+         "Calle": "Ave. Winston Churchill",
+         "Numero": 13,
+         "Sector": "Altos de Arroyo Hondo III",
+         "Provincia": "Distrito Nacional",
+         "Estado": "Activa"
+        },
+        {
+         "ID": 310,
+         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
+         "PersonaNo": 306,
+         "TipoDomicilio": "Otro",
+         "Calle": "Calle Rafael Augusto Sanchez",
+         "Numero": 256,
+         "Sector": "Plantini",
+         "Provincia": "Distrito Nacional",
+         "Estado": "Activo"
+        },
+        {
+         "ID": 311,
+         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
+         "PersonaNo": 306,
+         "TipoDomicilio": "Veraneo",
+         "Calle": "Calle Luis Alberty",
+         "Numero": 156,
+         "Sector": "Naco",
+         "Provincia": "Distrito Nacional",
+         "Estado": "Activo"
+        },
+        {
          "ID": 312,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
-         "TipoDomicilio": "Oficina principal",
-         "Calle": "Ave. Winston Churchill",
-         "Numero": 1020,
-         "Sector": "Evaristo Morales",
-         "Provincia": "Distrito Nacional",
+         "TipoDomicilio": "Residencia",
+         "Calle": "Calle Rafael Augusto Sanchez",
+         "Numero": 14,
+         "Sector": "Naco",
+         "Provincia": "Santiago",
          "Estado": "Activo"
         },
         {
@@ -3458,81 +3458,15 @@
          "ID": 315,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
-         "TipoDomicilio": "Trabajo",
-         "Calle": "Calle Rafael Augusto Sanchez",
-         "Numero": "S\/N",
+         "TipoDomicilio": "Oficina principal",
+         "Calle": "Ave. Winston Churchill",
+         "Numero": 1020,
          "Sector": "Evaristo Morales",
          "Provincia": "Distrito Nacional",
          "Estado": "Activo"
         },
         {
          "ID": 316,
-         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
-         "PersonaNo": 306,
-         "TipoDomicilio": "Sucursal",
-         "Calle": "Ave. Winston Churchill",
-         "Numero": "S\/N",
-         "Sector": "Centro de la Ciudad",
-         "Provincia": "La Romana",
-         "Estado": "Activo"
-        },
-        {
-         "ID": 317,
-         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
-         "PersonaNo": 306,
-         "TipoDomicilio": "Verano",
-         "Calle": "Calle Rafael Augusto Sanchez",
-         "Numero": 4,
-         "Sector": "Naco",
-         "Provincia": "La Romana",
-         "Estado": "Activo"
-        },
-        {
-         "ID": 318,
-         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
-         "PersonaNo": 306,
-         "TipoDomicilio": "Sucursal",
-         "Calle": "Manuel de Jesus Troncoso",
-         "Numero": "42a",
-         "Sector": "La Romana",
-         "Provincia": "La Romana",
-         "Estado": "Activo"
-        },
-        {
-         "ID": 319,
-         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
-         "PersonaNo": 306,
-         "TipoDomicilio": "Trabajo",
-         "Calle": "Ave. Winston Churchill",
-         "Numero": 13,
-         "Sector": "Altos de Arroyo Hondo III",
-         "Provincia": "Distrito Nacional",
-         "Estado": "Activa"
-        },
-        {
-         "ID": 320,
-         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
-         "PersonaNo": 306,
-         "TipoDomicilio": "Otro",
-         "Calle": "Calle Rafael Augusto Sanchez",
-         "Numero": 256,
-         "Sector": "Plantini",
-         "Provincia": "Distrito Nacional",
-         "Estado": "Activo"
-        },
-        {
-         "ID": 321,
-         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
-         "PersonaNo": 306,
-         "TipoDomicilio": "Veraneo",
-         "Calle": "Calle Luis Alberty",
-         "Numero": 156,
-         "Sector": "Naco",
-         "Provincia": "Distrito Nacional",
-         "Estado": "Activo"
-        },
-        {
-         "ID": 322,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Residencia",
@@ -3543,13 +3477,79 @@
          "Estado": "Activo"
         },
         {
-         "ID": 323,
+         "ID": 317,
+         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
+         "PersonaNo": 306,
+         "TipoDomicilio": "Sucursal",
+         "Calle": "Manuel de Jesus Troncoso",
+         "Numero": "42a",
+         "Sector": "La Romana",
+         "Provincia": "La Romana",
+         "Estado": "Activo"
+        },
+        {
+         "ID": 318,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Oficina principal",
          "Calle": "Ave. Winston Churchill",
          "Numero": 1020,
          "Sector": "Evaristo Morales",
+         "Provincia": "Distrito Nacional",
+         "Estado": "Activo"
+        },
+        {
+         "ID": 319,
+         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
+         "PersonaNo": 306,
+         "TipoDomicilio": "Residencia",
+         "Calle": "Calle Rafael Augusto Sanchez",
+         "Numero": 14,
+         "Sector": "Naco",
+         "Provincia": "Santiago",
+         "Estado": "Activo"
+        },
+        {
+         "ID": 320,
+         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
+         "PersonaNo": 306,
+         "TipoDomicilio": "Sucursal",
+         "Calle": "Manuel de Jesus Troncoso",
+         "Numero": "42a",
+         "Sector": "La Romana",
+         "Provincia": "La Romana",
+         "Estado": "Activo"
+        },
+        {
+         "ID": 321,
+         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
+         "PersonaNo": 306,
+         "TipoDomicilio": "Trabajo",
+         "Calle": "Ave. Winston Churchill",
+         "Numero": 13,
+         "Sector": "Altos de Arroyo Hondo III",
+         "Provincia": "Distrito Nacional",
+         "Estado": "Activa"
+        },
+        {
+         "ID": 322,
+         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
+         "PersonaNo": 306,
+         "TipoDomicilio": "Otro",
+         "Calle": "Calle Rafael Augusto Sanchez",
+         "Numero": 256,
+         "Sector": "Plantini",
+         "Provincia": "Distrito Nacional",
+         "Estado": "Activo"
+        },
+        {
+         "ID": 323,
+         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
+         "PersonaNo": 306,
+         "TipoDomicilio": "Veraneo",
+         "Calle": "Calle Luis Alberty",
+         "Numero": 156,
+         "Sector": "Naco",
          "Provincia": "Distrito Nacional",
          "Estado": "Activo"
         },
@@ -3557,6 +3557,17 @@
          "ID": 324,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
+         "TipoDomicilio": "Residencia",
+         "Calle": "Calle Rafael Augusto Sanchez",
+         "Numero": 14,
+         "Sector": "Naco",
+         "Provincia": "Santiago",
+         "Estado": "Activo"
+        },
+        {
+         "ID": 325,
+         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
+         "PersonaNo": 306,
          "TipoDomicilio": "Oficina principal",
          "Calle": "Ave. Winston Churchill",
          "Numero": 1020,
@@ -3565,7 +3576,7 @@
          "Estado": "Activo"
         },
         {
-         "ID": 325,
+         "ID": 326,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Sucursal",
@@ -3576,7 +3587,7 @@
          "Estado": "Activo"
         },
         {
-         "ID": 326,
+         "ID": 327,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Trabajo",
@@ -3587,7 +3598,7 @@
          "Estado": "Activo"
         },
         {
-         "ID": 327,
+         "ID": 328,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Sucursal",
@@ -3598,7 +3609,7 @@
          "Estado": "Activo"
         },
         {
-         "ID": 328,
+         "ID": 329,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Verano",
@@ -3609,7 +3620,7 @@
          "Estado": "Activo"
         },
         {
-         "ID": 329,
+         "ID": 330,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Sucursal",
@@ -3620,7 +3631,7 @@
          "Estado": "Activo"
         },
         {
-         "ID": 330,
+         "ID": 331,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Trabajo",
@@ -3628,10 +3639,10 @@
          "Numero": 13,
          "Sector": "Altos de Arroyo Hondo III",
          "Provincia": "Distrito Nacional",
-         "Estado": "Activa"
+         "Estado": "Activo"
         },
         {
-         "ID": 331,
+         "ID": 332,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Otro",
@@ -3642,7 +3653,7 @@
          "Estado": "Activo"
         },
         {
-         "ID": 332,
+         "ID": 333,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Veraneo",
@@ -3653,7 +3664,7 @@
          "Estado": "Activo"
         },
         {
-         "ID": 333,
+         "ID": 334,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Residencia",
@@ -3661,17 +3672,6 @@
          "Numero": 14,
          "Sector": "Naco",
          "Provincia": "Santiago",
-         "Estado": "Activo"
-        },
-        {
-         "ID": 334,
-         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
-         "PersonaNo": 306,
-         "TipoDomicilio": "Oficina principal",
-         "Calle": "Ave. Winston Churchill",
-         "Numero": 1020,
-         "Sector": "Evaristo Morales",
-         "Provincia": "Distrito Nacional",
          "Estado": "Activo"
         },
         {
@@ -3799,17 +3799,6 @@
          "ID": 346,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
-         "TipoDomicilio": "Oficina principal",
-         "Calle": "Ave. Winston Churchill",
-         "Numero": 1020,
-         "Sector": "Evaristo Morales",
-         "Provincia": "Distrito Nacional",
-         "Estado": "Activo"
-        },
-        {
-         "ID": 347,
-         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
-         "PersonaNo": 306,
          "TipoDomicilio": "Sucursal",
          "Calle": "Paseo Oeste",
          "Numero": "S\/N",
@@ -3818,13 +3807,24 @@
          "Estado": "Activo"
         },
         {
-         "ID": 348,
+         "ID": 347,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Trabajo",
+         "Calle": "Ave. Winston Churchill",
+         "Numero": 13,
+         "Sector": "Altos de Arroyo Hondo III",
+         "Provincia": "Distrito Nacional",
+         "Estado": "Activo"
+        },
+        {
+         "ID": 348,
+         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
+         "PersonaNo": 306,
+         "TipoDomicilio": "Otro",
          "Calle": "Calle Rafael Augusto Sanchez",
-         "Numero": "S\/N",
-         "Sector": "Evaristo Morales",
+         "Numero": 256,
+         "Sector": "Plantini",
          "Provincia": "Distrito Nacional",
          "Estado": "Activo"
         },
@@ -3832,61 +3832,6 @@
          "ID": 349,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
-         "TipoDomicilio": "Sucursal",
-         "Calle": "Ave. Winston Churchill",
-         "Numero": "S\/N",
-         "Sector": "Centro de la Ciudad",
-         "Provincia": "La Romana",
-         "Estado": "Activo"
-        },
-        {
-         "ID": 350,
-         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
-         "PersonaNo": 306,
-         "TipoDomicilio": "Verano",
-         "Calle": "Calle Rafael Augusto Sanchez",
-         "Numero": 4,
-         "Sector": "Naco",
-         "Provincia": "La Romana",
-         "Estado": "Activo"
-        },
-        {
-         "ID": 351,
-         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
-         "PersonaNo": 306,
-         "TipoDomicilio": "Sucursal",
-         "Calle": "Manuel de Jesus Troncoso",
-         "Numero": "42a",
-         "Sector": "La Romana",
-         "Provincia": "La Romana",
-         "Estado": "Activo"
-        },
-        {
-         "ID": 352,
-         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
-         "PersonaNo": 306,
-         "TipoDomicilio": "Trabajo",
-         "Calle": "Ave. Winston Churchill",
-         "Numero": 13,
-         "Sector": "Altos de Arroyo Hondo III",
-         "Provincia": "Distrito Nacional",
-         "Estado": "Activa"
-        },
-        {
-         "ID": 353,
-         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
-         "PersonaNo": 306,
-         "TipoDomicilio": "Otro",
-         "Calle": "Calle Rafael Augusto Sanchez",
-         "Numero": 256,
-         "Sector": "Plantini",
-         "Provincia": "Distrito Nacional",
-         "Estado": "Activo"
-        },
-        {
-         "ID": 354,
-         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
-         "PersonaNo": 306,
          "TipoDomicilio": "Veraneo",
          "Calle": "Calle Luis Alberty",
          "Numero": 156,
@@ -3895,7 +3840,7 @@
          "Estado": "Activo"
         },
         {
-         "ID": 355,
+         "ID": 350,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Residencia",
@@ -3906,7 +3851,7 @@
          "Estado": "Activo"
         },
         {
-         "ID": 356,
+         "ID": 351,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Oficina principal",
@@ -3917,18 +3862,7 @@
          "Estado": "Activo"
         },
         {
-         "ID": 357,
-         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
-         "PersonaNo": 306,
-         "TipoDomicilio": "Oficina principal",
-         "Calle": "Ave. Winston Churchill",
-         "Numero": 1020,
-         "Sector": "Evaristo Morales",
-         "Provincia": "Distrito Nacional",
-         "Estado": "Activo"
-        },
-        {
-         "ID": 358,
+         "ID": 352,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Sucursal",
@@ -3939,7 +3873,7 @@
          "Estado": "Activo"
         },
         {
-         "ID": 359,
+         "ID": 353,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Trabajo",
@@ -3950,7 +3884,7 @@
          "Estado": "Activo"
         },
         {
-         "ID": 360,
+         "ID": 354,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Sucursal",
@@ -3961,7 +3895,7 @@
          "Estado": "Activo"
         },
         {
-         "ID": 361,
+         "ID": 355,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Verano",
@@ -3972,7 +3906,7 @@
          "Estado": "Activo"
         },
         {
-         "ID": 362,
+         "ID": 356,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Sucursal",
@@ -3983,7 +3917,7 @@
          "Estado": "Activo"
         },
         {
-         "ID": 363,
+         "ID": 357,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Trabajo",
@@ -3994,7 +3928,7 @@
          "Estado": "Activa"
         },
         {
-         "ID": 364,
+         "ID": 358,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Otro",
@@ -4005,7 +3939,7 @@
          "Estado": "Activo"
         },
         {
-         "ID": 365,
+         "ID": 359,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Veraneo",
@@ -4016,7 +3950,7 @@
          "Estado": "Activo"
         },
         {
-         "ID": 366,
+         "ID": 360,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Residencia",
@@ -4027,7 +3961,7 @@
          "Estado": "Activo"
         },
         {
-         "ID": 367,
+         "ID": 361,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Oficina principal",
@@ -4035,6 +3969,72 @@
          "Numero": 1020,
          "Sector": "Evaristo Morales",
          "Provincia": "Distrito Nacional",
+         "Estado": "Activo"
+        },
+        {
+         "ID": 362,
+         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
+         "PersonaNo": 306,
+         "TipoDomicilio": "Sucursal",
+         "Calle": "Paseo Oeste",
+         "Numero": "S\/N",
+         "Sector": "La Rosaelda",
+         "Provincia": "Santiago de Los Caballeros",
+         "Estado": "Activo"
+        },
+        {
+         "ID": 363,
+         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
+         "PersonaNo": 306,
+         "TipoDomicilio": "Sucursal",
+         "Calle": "Manuel de Jesus Troncoso",
+         "Numero": "42a",
+         "Sector": "La Romana",
+         "Provincia": "La Romana",
+         "Estado": "Activo"
+        },
+        {
+         "ID": 364,
+         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
+         "PersonaNo": 306,
+         "TipoDomicilio": "Trabajo",
+         "Calle": "Ave. Winston Churchill",
+         "Numero": 13,
+         "Sector": "Altos de Arroyo Hondo III",
+         "Provincia": "Distrito Nacional",
+         "Estado": "Activa"
+        },
+        {
+         "ID": 365,
+         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
+         "PersonaNo": 306,
+         "TipoDomicilio": "Otro",
+         "Calle": "Calle Rafael Augusto Sanchez",
+         "Numero": 256,
+         "Sector": "Plantini",
+         "Provincia": "Distrito Nacional",
+         "Estado": "Activo"
+        },
+        {
+         "ID": 366,
+         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
+         "PersonaNo": 306,
+         "TipoDomicilio": "Veraneo",
+         "Calle": "Calle Luis Alberty",
+         "Numero": 156,
+         "Sector": "Naco",
+         "Provincia": "Distrito Nacional",
+         "Estado": "Activo"
+        },
+        {
+         "ID": 367,
+         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
+         "PersonaNo": 306,
+         "TipoDomicilio": "Residencia",
+         "Calle": "Calle Rafael Augusto Sanchez",
+         "Numero": 14,
+         "Sector": "Naco",
+         "Provincia": "Santiago",
          "Estado": "Activo"
         },
         {
@@ -4162,17 +4162,6 @@
          "ID": 379,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
-         "TipoDomicilio": "Oficina principal",
-         "Calle": "Ave. Winston Churchill",
-         "Numero": 1020,
-         "Sector": "Evaristo Morales",
-         "Provincia": "Distrito Nacional",
-         "Estado": "Activo"
-        },
-        {
-         "ID": 380,
-         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
-         "PersonaNo": 306,
          "TipoDomicilio": "Sucursal",
          "Calle": "Paseo Oeste",
          "Numero": "S\/N",
@@ -4181,7 +4170,7 @@
          "Estado": "Activo"
         },
         {
-         "ID": 381,
+         "ID": 380,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Trabajo",
@@ -4192,7 +4181,7 @@
          "Estado": "Activo"
         },
         {
-         "ID": 382,
+         "ID": 381,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Sucursal",
@@ -4203,7 +4192,7 @@
          "Estado": "Activo"
         },
         {
-         "ID": 383,
+         "ID": 382,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Verano",
@@ -4214,7 +4203,7 @@
          "Estado": "Activo"
         },
         {
-         "ID": 384,
+         "ID": 383,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Sucursal",
@@ -4225,7 +4214,7 @@
          "Estado": "Activo"
         },
         {
-         "ID": 385,
+         "ID": 384,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Trabajo",
@@ -4236,7 +4225,7 @@
          "Estado": "Activa"
         },
         {
-         "ID": 386,
+         "ID": 385,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Otro",
@@ -4247,7 +4236,7 @@
          "Estado": "Activo"
         },
         {
-         "ID": 387,
+         "ID": 386,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Veraneo",
@@ -4258,7 +4247,7 @@
          "Estado": "Activo"
         },
         {
-         "ID": 388,
+         "ID": 387,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Residencia",
@@ -4269,29 +4258,18 @@
          "Estado": "Activo"
         },
         {
+         "ID": 388,
+         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
+         "PersonaNo": 306,
+         "TipoDomicilio": "Oficina principal",
+         "Calle": "Ave. Winston Churchill",
+         "Numero": 1020,
+         "Sector": "Evaristo Morales",
+         "Provincia": "Distrito Nacional",
+         "Estado": "Activo"
+        },
+        {
          "ID": 389,
-         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
-         "PersonaNo": 306,
-         "TipoDomicilio": "Oficina principal",
-         "Calle": "Ave. Winston Churchill",
-         "Numero": 1020,
-         "Sector": "Evaristo Morales",
-         "Provincia": "Distrito Nacional",
-         "Estado": "Activo"
-        },
-        {
-         "ID": 390,
-         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
-         "PersonaNo": 306,
-         "TipoDomicilio": "Oficina principal",
-         "Calle": "Ave. Winston Churchill",
-         "Numero": 1020,
-         "Sector": "Evaristo Morales",
-         "Provincia": "Distrito Nacional",
-         "Estado": "Activo"
-        },
-        {
-         "ID": 391,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Sucursal",
@@ -4302,7 +4280,7 @@
          "Estado": "Activo"
         },
         {
-         "ID": 392,
+         "ID": 390,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Trabajo",
@@ -4313,7 +4291,7 @@
          "Estado": "Activo"
         },
         {
-         "ID": 393,
+         "ID": 391,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Sucursal",
@@ -4324,7 +4302,7 @@
          "Estado": "Activo"
         },
         {
-         "ID": 394,
+         "ID": 392,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Verano",
@@ -4335,7 +4313,7 @@
          "Estado": "Activo"
         },
         {
-         "ID": 395,
+         "ID": 393,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Sucursal",
@@ -4346,7 +4324,7 @@
          "Estado": "Activo"
         },
         {
-         "ID": 396,
+         "ID": 394,
          "Addresses": "https:\/\/shorturl.at\/eiTZ6",
          "PersonaNo": 306,
          "TipoDomicilio": "Trabajo",
@@ -4355,6 +4333,28 @@
          "Sector": "Altos de Arroyo Hondo III",
          "Provincia": "Distrito Nacional",
          "Estado": "Activa"
+        },
+        {
+         "ID": 395,
+         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
+         "PersonaNo": 306,
+         "TipoDomicilio": "Otro",
+         "Calle": "Calle Rafael Augusto Sanchez",
+         "Numero": 256,
+         "Sector": "Plantini",
+         "Provincia": "Distrito Nacional",
+         "Estado": "Activo"
+        },
+        {
+         "ID": 396,
+         "Addresses": "https:\/\/shorturl.at\/eiTZ6",
+         "PersonaNo": 306,
+         "TipoDomicilio": "Veraneo",
+         "Calle": "Calle Luis Alberty",
+         "Numero": 156,
+         "Sector": "Naco",
+         "Provincia": "Distrito Nacional",
+         "Estado": "Activo"
         },
         {
          "ID": 397,
