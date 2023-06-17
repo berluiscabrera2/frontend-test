@@ -1,11 +1,13 @@
 export const columnInfo = [
     {
         header: "...",
-        accessorKey: "Addresses"
+        accessorKey: "Addresses",
+        size: 20
     },
     {
         header: "PERSONA NO.",
-        accessorKey: "PersonaNo"
+        accessorKey: "PersonaNo",
+        size: 40
     },
     {
         header: "TIPO DOMICILIO",
@@ -13,11 +15,13 @@ export const columnInfo = [
     },
     {
         header: "CALLE",
-        accessorKey: "Calle"
+        accessorKey: "Calle",
+        size: 200
     },
     {
         header: "NUMERO",
-        accessorKey: "Numero"
+        accessorKey: "Numero",
+        size: 100,
     },
     {
         header: "SECTOR",
@@ -29,6 +33,7 @@ export const columnInfo = [
     },
     {
         header: "ESTADO",
-        accessorKey: "Estado"
+        accessorKey: "Estado",
+        size: 50
     }
 ]

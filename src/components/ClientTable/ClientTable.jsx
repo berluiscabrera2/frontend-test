@@ -6,7 +6,10 @@ import { columnInfo } from "../../util/ColumnsInfo";
 import useAddresses from "../../hooks/useAddresses";
 import CatchHandler from "../../custom-components/CatchHandler";
 import { Button } from "@mui/material";
+import { styled } from "@mui/material/styles";
 import AddIcon from '@mui/icons-material/Add';
+import Box from "@mui/material/Box/Box";
+import KeyboardArrowDownIcon from '@mui/icons-material/KeyboardArrowDown';
 
 const ClientTable = () => {
   const { data, isLoading, isError, error } = useAddresses();
@@ -14,6 +17,16 @@ const ClientTable = () => {
 
   const flatData = useMemo(() => data ?? [], [data]);
   const columns = useMemo(() => columnInfo, [data]);
+
+  const EditButton = styled(Button)(() => ({
+    color: "white",
+    fontWeight: 700,
+    backgroundColor: "#273F70",
+    textTransform: "capitalize",
+    "&:hover": {
+      backgroundColor: "#476094",
+    },
+  }));
 
   useEffect(() => {
     //scroll to the top of the table when the sorting changes
@@ -37,6 +50,7 @@ const ClientTable = () => {
         enableColumnFilters={false}
         enableHiding={false}
         enableDensityToggle={false}
+        enableSorting
         onSortingChange={setSorting}
         positionGlobalFilter="left"
         initialState={{
@@ -48,15 +62,18 @@ const ClientTable = () => {
           showAlertBanner: isError,
           sorting,
         }}
-        renderTopToolbarCustomActions={() => (
-          <Button
-            color="secondary"
+        icons={{
+          SortIcon: (props) => (<KeyboardArrowDownIcon sx={{color: "#273F70"}} {...props} />),
+          MoreVertIcon: (props) => (<KeyboardArrowDownIcon sx={{color: "white"}} {...props} />), 
+        }}
+        renderToolbarInternalActions={() => (
+          <EditButton
             onClick={() => console.log("hola")} //setCreateModalOpen(true)}
             variant="contained"
             startIcon={<AddIcon />}
           >
             Nuevo Domicilio
-          </Button>
+          </EditButton>
         )}
         muiTableContainerProps={{
           sx: {
@@ -111,10 +128,21 @@ const ClientTable = () => {
           sx: {
             fontSize: "12px",
             fontWeight: "400",
+            maxHeight: "5"
           },
           InputLabelProps: {
             shrink: true,
           },
+        }}
+        muiTablePaginationProps={{
+          rowsPerPageOptions: [10],
+          showFirstButton: false,
+          showLastButton: false,
+          SelectProps: {
+            native: true,
+          },
+          backIconButtonProps:{style:{ height: '36px', width: '36px' ,borderRadius: '0px', boxShadow: "0 1px 3px 0 rgba(00, 00, 00, 0.5)", marginRight: '5px'}},
+          nextIconButtonProps: {style:{color:"#273F70", height: '36px', width: '36px' ,borderRadius: '0px', boxShadow: "0 1px 3px 0 rgba(00, 00, 00, 0.5)", marginLeft: '5px'}}
         }}
       />
     </section>

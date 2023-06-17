@@ -25,9 +25,13 @@
     };
 
     &__btns {
-        @include flexCenter(row, 0.7rem, center);
+        // @include flexCenter(row, 0.7rem, center);
+        display: flex;
+        justify-content: flex-end;
+        gap: 1rem;
         width: 20%;
         height: 45%;
+        
 
     }
 }
