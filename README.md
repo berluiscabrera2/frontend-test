@@ -5,16 +5,6 @@ This project uses a table, which fetches data from an API using a fictional data
 
 
 
-
-
-
-## Demo
-
-See a live demo in the following link:
-
-
-
-
 ## Screenshots
 
 ![App Screenshot](https://drive.google.com/file/d/1eTpb-tDxX6Q5zkTolR6u2H67iDemkltr/view?usp=sharing)
