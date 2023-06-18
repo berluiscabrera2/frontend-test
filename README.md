@@ -7,7 +7,8 @@ This project uses a table, which fetches data from an API using a fictional data
 
 ## Screenshots
 
-![App Screenshot](https://drive.google.com/file/d/1eTpb-tDxX6Q5zkTolR6u2H67iDemkltr/view?usp=sharing)
+<img width="959" alt="Frontend screenshot" src="https://github.com/berluiscabrera2/frontend-test/assets/111819684/3dc67ec4-9b68-4e6a-8033-1ef53ee65d6f">
+
 
 
 ## Tech Stack
