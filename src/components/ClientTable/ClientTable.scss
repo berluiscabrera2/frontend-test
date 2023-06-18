@@ -3,7 +3,12 @@
 
 
 .client-table-container {
-    padding: 1rem 3rem 0.5rem 3rem;
+    padding: 2.7rem 3rem 0.5rem 3rem;
+
+    @include customMaxBreakPoint(600){
+        padding: 2.7rem 1rem 0.5rem 1rem ;
+    }
+
 
     h3 {
         font-family: $fontFamily;

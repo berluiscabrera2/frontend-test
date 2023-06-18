@@ -1,22 +1,22 @@
-import React, { useState } from "react";
-import AccountCircleOutlinedIcon from "@mui/icons-material/AccountCircleOutlined";
+import React, { useState, useEffect, useRef } from "react";
 import Button from "@mui/material/Button";
 import EditOutlinedIcon from "@mui/icons-material/EditOutlined";
 import CloseOutlinedIcon from "@mui/icons-material/CloseOutlined";
 import { styled } from "@mui/material/styles";
 import Swal from "sweetalert2/dist/sweetalert2.js";
-import logo from '../../assets/images/logoreal.png'
+import logo from '../../assets/images/Logo.svg'
 import "./ClientHeader.scss";
 
 const ClientHeader = () => {
-  const [completeName, setCompleteName] = useState("Nombre completo");
+  const [completeName, setCompleteName] = useState("Nombre Cliente");
+  const [tableWidth, setTableWidth] = useState(0);
+  const parentRef = useRef(null);
 
   const handleSubmit = async () => {
     const { value: completeName } = await Swal.fire({
-      title: "Nombre Completo",
+      title: "Nombre Cliente",
       input: "text",
-      inputLabel: "Escribe tu nombre completo en ",
-      inputPlaceholder: "Ingresa tu nombre completo en el siguiente campo",
+      inputPlaceholder: "Ingresa el nombre del cliente aqui.",
       showCancelButton: true,
       confirmButtonText: "Aceptar",
       confirmButtonColor: "#273F70",
@@ -51,8 +51,8 @@ const ClientHeader = () => {
       confirmButtonText: "Si, eliminalo!",
       cancelButtonText: "Cancelar",
     }).then((result) => {
-      setCompleteName('');
       if (result.isConfirmed) {
+        setCompleteName('');
         Swal.fire("Eliminado!", "El nombre ha sido eliminado", "success");
       }
     });
@@ -80,23 +80,36 @@ const ClientHeader = () => {
     },
   }));
 
+  useEffect(() => {
+    function handleResize() {
+      const parentWidth = parentRef.current.clientWidth; //;
+      setTableWidth(parentWidth);
+    }
+    handleResize();
+    window.addEventListener("resize", handleResize);
+    return () => window.removeEventListener("resize", handleResize);
+  }, []);
+
   return (
-    <section className="client-header-container">
+    <section ref={parentRef} className="client-header-container">
       <div className="client-header-container__info">
         <img src={logo} alt="logo"/>
         <h1>{completeName}</h1>
       </div>
       <div className="client-header-container__btns">
-        <EditButton
+        {tableWidth > 900 ?<EditButton
           variant="contained"
-          startIcon={<EditOutlinedIcon sx={{ color: "#273F70" }} />}
+          startIcon={<EditOutlinedIcon sx={{ color: "#273F70"}} />}
           onClick={handleSubmit}
-          sx={{
-            width: 90,
-          }}
         >
           Editar
-        </EditButton>
+        </EditButton> : <EditButton
+          variant="contained"
+          onClick={handleSubmit}
+          sx={{width: "35px",
+          minWidth: "5px", marginLeft: '100px'}}
+        > <EditOutlinedIcon sx={{ color: "#273F70" }} />
+        </EditButton>}
         <CancelButton variant="contained" onClick={handleCancel}>
           <CloseOutlinedIcon sx={{ color: "#A30000", fontSize: 20 }} />
         </CancelButton>

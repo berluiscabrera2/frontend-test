@@ -1,10 +1,5 @@
 export const columnInfo = [
     {
-        header: "...",
-        accessorKey: "Addresses",
-        size: 20
-    },
-    {
         header: "PERSONA NO.",
         accessorKey: "PersonaNo",
         size: 40
